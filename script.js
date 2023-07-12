@@ -159,23 +159,23 @@ var questions = [
     selectedAnswer = parseInt(selectedAnswer); // Parse selected answer as an integer
     if (selectedAnswer === correctAnswer) {
       correctResponses++;
-      feedbackElement.textContent = "Correct!";
+      feedbackElement.textContent = "Corretto!";
       feedbackElement.style.color = "green";
       explanationElement.textContent = "";
       return true;
     } else {
       incorrectResponses++;
-      feedbackElement.textContent = "Wrong!";
+      feedbackElement.textContent = "Sbagliato!";
       feedbackElement.style.color = "red";
-      explanationElement.textContent = "Correct answer: " + questions[currentQuestionIndex].options[correctAnswer] + ". " + questions[currentQuestionIndex].explanation;
+      explanationElement.textContent = "Risposta esatta: " + questions[currentQuestionIndex].options[correctAnswer] + ". " + questions[currentQuestionIndex].explanation;
       return false;
     }
   }
   
   
   function updateScore() {
-    correctResponsesElement.textContent = "Correct: " + correctResponses;
-    incorrectResponsesElement.textContent = "Incorrect: " + incorrectResponses;
+    correctResponsesElement.textContent = "Corretto: " + correctResponses;
+    incorrectResponsesElement.textContent = "Sbagliato: " + incorrectResponses;
   }
   
   function showFeedback() {
