@@ -119,7 +119,7 @@ var questions = [
     answer: 1,
     explanation: "I funghi che si coltivano si allevano su piante."
     },
-    // Add more questions here...
+    // Add more questions here... testetstes
   ];
   
   var currentQuestionIndex = 0;
