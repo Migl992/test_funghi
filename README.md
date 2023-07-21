@@ -1,1 +1,2 @@
 README
+Questa è una web app progettata per offrire un'opportunità di esercitazione per il rilascio del patentino raccolta funghi della regione Marche. Le domande utilizzate sono estratte dal file presente sul sito ufficiale della regione. L'obiettivo principale di questa applicazione è quello di fornire un ambiente istruttivo per la preparazione all'esame del patentino, consentendo agli utenti di testare le proprie conoscenze e acquisire familiarità con le domande che potrebbero essere presentate durante l'esame effettivo.
