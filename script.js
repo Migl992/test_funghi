@@ -65,301 +65,301 @@ var questions = [
 },
 {
     id: "A10",
-    question: ". I funghi che crescono su sostanza organica morta sono definiti:",
+    question: "I funghi che crescono su sostanza organica morta sono definiti:",
     options: ["A parassiti", "B saprofiti", "C simbionti"],
     answer: 1,
     explanation: "B saprofiti",
 },
 {
     id: "A11",
-    question: ". I funghi che vivono in unione con piante sono definiti:",
+    question: "I funghi che vivono in unione con piante sono definiti:",
     options: ["A parassiti", "B saprofiti", "C simbionti"],
     answer: 2,
     explanation: "C simbionti",
 },
 {
     id: "A12",
-    question: ". I funghi definiti spontanei:",
+    question: "I funghi definiti spontanei:",
     options: ["A non esistono", "B sono tutti quelli che si possono vendere", "C sono quelli che provengono dall’ambiente naturale"],
     answer: 2,
     explanation: "C sono quelli che provengono dall’ambiente naturale",
 },
 {
     id: "A13",
-    question: ". I funghi definiti freschi:",
+    question: "I funghi definiti freschi:",
     options: ["A sono solo quelli spontanei", "B sono quelli che non sono stati sottoposti a trattamenti di conservazione", "C sono solo quelli coltivati"],
     answer: 1,
     explanation: "B sono quelli che non sono stati sottoposti a trattamenti di conservazione",
 },
 {
     id: "A14",
-    question: ". I funghi freschi spontanei:",
+    question: "I funghi freschi spontanei:",
     options: ["A non provengono da coltivazioni", "B sono quelli naturali", "C sono quelli coltivati nei Paesi dell’est Europa"],
     answer: 0,
     explanation: "A non provengono da coltivazioni",
 },
 {
     id: "A15",
-    question: ". I funghi sono:",
+    question: "I funghi sono:",
     options: ["A frutti di una propria “pianta” generalmente non visibile", "B pianticelle con proprie radici", "C vegetali incompleti"],
     answer: 0,
     explanation: "A frutti di una propria “pianta” generalmente non visibile",
 },
 {
     id: "A16",
-    question: ". I funghi che si coltivano:",
+    question: "I funghi che si coltivano:",
     options: ["A sono solo i porcini e gli champignon", "B si allevano su piante", "C appartengono al gruppo dei funghi saprofiti"],
     answer: 2,
     explanation: "C appartengono al gruppo dei funghi saprofiti",
 },
 {
     id: "A17",
-    question: ". I semi contenuti nei funghi:",
+    question: "I semi contenuti nei funghi:",
     options: ["A sono pochissimi", "B sono definiti “spore”", "C sono assenti nei funghi coltivati"],
     answer: 1,
     explanation: "B sono definiti “spore”",
 },
 {
     id: "A18",
-    question: ". La parte del fungo dove ci sono le spore:",
+    question: "La parte del fungo dove ci sono le spore:",
     options: ["A sacchetto", "B vescicola", "C imenio"],
     answer: 2,
     explanation: "C imenio",
 },
 {
     id: "A19",
-    question: ". Nei funghi che hanno il cappello, le spore si trovano:",
+    question: "Nei funghi che hanno il cappello, le spore si trovano:",
     options: ["A sotto il cappello", "B nella carne", "C sopra il gambo"],
     answer: 0,
     explanation: "A sotto il cappello",
 },
 {
     id: "A20",
-    question: ". I funghi che hanno le lamelle:",
+    question: "I funghi che hanno le lamelle:",
     options: ["A sono molto rari", "B non appartengono al gruppo dei porcini", "C crescono solo in montagna"],
     answer: 1,
     explanation: "B non appartengono al gruppo dei porcini",
 },
 {
     id: "A21",
-    question: ". I funghi con lamelle:",
+    question: "I funghi con lamelle:",
     options: ["A sono pericolosi", "B crescono solo in pianura", "C sono i più diffusi"],
     answer: 2,
     explanation: "C sono i più diffusi",
 },
 {
     id: "A22",
-    question: ". I funghi sotto il cappello:",
+    question: "I funghi sotto il cappello:",
     options: ["A possono avere anche dei tubicini", "B hanno sempre un anello", "C sono sempre di colore bianco"],
     answer: 0,
     explanation: "A possono avere anche dei tubicini",
 },
 {
     id: "A23",
-    question: ". L’anello nei funghi:",
+    question: "L’anello nei funghi:",
     options: ["A distingue quelli buoni da quelli cattivi", "B è sempre presente", "C è caratteristico solo di alcune specie"],
     answer: 2,
     explanation: "C è caratteristico solo di alcune specie",
 },
 {
     id: "A24",
-    question: ". L’anello dei funghi:",
+    question: "L’anello dei funghi:",
     options: ["A non serve a distinguere i funghi mangerecci da quelli tossici", "B è posseduto solo da alcune specie di porcini", "C non cade mai"],
     answer: 0,
     explanation: "A non serve a distinguere i funghi mangerecci da quelli tossici",
 },
 {
     id: "A25",
-    question: ". La volva:",
+    question: "La volva:",
     options: ["A è tipica dei porcini di importazione", "B ce l’hanno tutti i funghi coltivati", "C è tipica di alcuni funghi lamellati"],
     answer: 2,
     explanation: "C è tipica di alcuni funghi lamellati",
 },
 {
     id: "A26",
-    question: ". La volva è:",
+    question: "La volva è:",
     options: ["A un insetto ospite dei funghi", "B sempre presente nelle Amanita", "C una malformazione di alcune specie di funghi"],
     answer: 1,
     explanation: "B sempre presente nelle Amanita",
 },
 {
     id: "A27",
-    question: ". La volva:",
+    question: "La volva:",
     options: ["A ce l’hanno solo i funghi pregiati", "B non esiste nei funghi", "C è il residuo di un velo che protegge lo sviluppo di taluni funghi"],
     answer: 2,
     explanation: "C è il residuo di un velo che protegge lo sviluppo di taluni funghi",
 },
 {
     id: "A28",
-    question: ". Il gambo nei funghi:",
+    question: "Il gambo nei funghi:",
     options: ["A è sempre di colore bianco", "B non esiste nei funghi ipogei", "C è il tronco della pianta fungo"],
     answer: 1,
     explanation: "B non esiste nei funghi ipogei",
 },
 {
     id: "A29",
-    question: ". La conformazione del gambo:",
+    question: "La conformazione del gambo:",
     options: ["A è un utile elemento nella determinazione dei funghi", "B non è significativa", "C è la parte del fungo che contiene i grassi"],
     answer: 0,
     explanation: "A è un utile elemento nella determinazione dei funghi",
 },
 {
     id: "A30",
-    question: ". In alcune specie di funghi sul gambo vi può essere:",
+    question: "In alcune specie di funghi sul gambo vi può essere:",
     options: ["A l’anello", "B la lamellula", "C la vitamina C"],
     answer: 0,
     explanation: "A l’anello",
 },
 {
     id: "A31",
-    question: ". Il colore dei funghi:",
+    question: "Il colore dei funghi:",
     options: ["A è molto importante per il riconoscimento", "B non è molto significativo per il riconoscimento", "C è dovuto alla clorofilla contenuta"],
     answer: 0,
     explanation: "A è molto importante per il riconoscimento",
 },
 {
     id: "A32",
-    question: ". I funghi con colori vivaci:",
+    question: "I funghi con colori vivaci:",
     options: ["A sono tutti velenosi", "B vengono colorati artificialmente", "C sono ricchi di coloranti naturali"],
     answer: 2,
     explanation: "C sono ricchi di coloranti naturali",
 },
 {
     id: "A33",
-    question: ". La carne dei funghi:",
+    question: "La carne dei funghi:",
     options: ["A è molto ricca di proteine nobili", "B può essere di diverso colore", "C è sempre bianca"],
     answer: 1,
     explanation: "B può essere di diverso colore",
 },
 {
     id: "A34",
-    question: ". Se la carne di alcuni funghi cambia di colore all’aria:",
+    question: "Se la carne di alcuni funghi cambia di colore all’aria:",
     options: ["A vuol dire che si tratta di funghi velenosi", "B vuol significare che i funghi sono alterati", "C è una caratteristica di alcune specie fungine"],
     answer: 2,
     explanation: "C è una caratteristica di alcune specie fungine",
 },
 {
     id: "A35",
-    question: ". L’odore dei funghi:",
+    question: "L’odore dei funghi:",
     options: ["A è molto significativo per la loro identificazione", "B è sempre assente nei funghi buoni da mangiare", "C è disgustoso nei funghi con le lamelle"],
     answer: 0,
     explanation: "A è molto significativo per la loro identificazione",
 },
 {
     id: "A36",
-    question: ". La commestibilità dei funghi:",
+    question: "La commestibilità dei funghi:",
     options: ["A viene decisa dal Governo", "B è stabilita dallo Stato", "C è il risultato di ripetuti consumi da parte del genere umano"],
     answer: 2,
     explanation: "C è il risultato di ripetuti consumi da parte del genere umano",
 },
 {
     id: "A37",
-    question: ". Il gambo:",
+    question: "Il gambo:",
     options: ["A è un elemento che possiedono tutti i funghi", "B può essere assente in certe specie fungine", "C è sempre presente nei funghi buoni da mangiare"],
     answer: 1,
     explanation: "B può essere assente in certe specie fungine",
 },
 {
     id: "A38",
-    question: ". Il riconoscimento dei funghi si basa:",
+    question: "Il riconoscimento dei funghi si basa:",
     options: ["A sullo studio dei suoi caratteri", "B sull’esperienza del raccoglitore", "C sul confronto con raffigurazioni"],
     answer: 0,
     explanation: "A sullo studio dei suoi caratteri",
 },
 {
     id: "A39",
-    question: ". I “semi” dei funghi si chiamano:",
+    question: "I “semi” dei funghi si chiamano:",
     options: ["A semini", "B spore", "C drupe"],
     answer: 1,
     explanation: "B spore",
 },
 {
     id: "A40",
-    question: ". Il nome della “pianta” che produce i funghi è:",
+    question: "Il nome della “pianta” che produce i funghi è:",
     options: ["A pianta nascosta", "B muffa grigia", "C micelio"],
     answer: 2,
     explanation: "C micelio",
 },
 {
     id: "A41",
-    question: ". I funghi hanno “semi”:",
+    question: "I funghi hanno “semi”:",
     options: ["A ben visibili ad occhio nudo", "B posti sopra il cappello", "C microscopici o difficili da vedere ad occhio nudo"],
     answer: 2,
     explanation: "C microscopici o difficili da vedere ad occhio nudo",
 },
 {
     id: "A42",
-    question: ". Per riconoscere i funghi:",
+    question: "Per riconoscere i funghi:",
     options: ["A bisogna guardare se hanno l’anello", "B si devono conoscere le loro caratteristiche", "C basta consultare internet"],
     answer: 1,
     explanation: "B si devono conoscere le loro caratteristiche",
 },
 {
     id: "A43",
-    question: ". I funghi freschi:",
+    question: "I funghi freschi:",
     options: ["A si alterano facilmente", "B hanno una conservabilità di sole tre settimane", "C vanno conservati solo nei sacchetti di plastica trasparente"],
     answer: 0,
     explanation: "A si alterano facilmente",
 },
 {
     id: "A44",
-    question: ". I funghi freschi:",
+    question: "I funghi freschi:",
     options: ["A vanno conservati al caldo", "B scadono dopo poche settimane", "C si devono conservare in luoghi freschi meglio se a 2°C"],
     answer: 2,
     explanation: "C si devono conservare in luoghi freschi meglio se a 2°C",
 },
 {
     id: "A45",
-    question: ". I funghi coltivati:",
+    question: "I funghi coltivati:",
     options: ["A provengono esclusivamente dall’estero", "B vengono coltivati solo in particolari grotte", "C possono essere coltivati anche in appositi stabilimenti"],
     answer: 2,
     explanation: "C possono essere coltivati anche in appositi stabilimenti",
 },
 {
     id: "A46",
-    question: ". I funghi coltivati:",
+    question: "I funghi coltivati:",
     options: ["A si differenziano dagli analoghi spontanei per i colori più vivaci", "B hanno le stesse caratteristiche morfobotaniche degli analoghi spontanei", "C hanno colori sbiaditi perché coltivati al buio"],
     answer: 1,
     explanation: "B hanno le stesse caratteristiche morfobotaniche degli analoghi spontanei",
 },
 {
     id: "A47",
-    question: ". Il fungo coltivato più diffuso in Italia è:",
+    question: "Il fungo coltivato più diffuso in Italia è:",
     options: ["A il Boletus edulis o porcino", "B l’Armillaria mellea o chiodino", "C l’Agaricus bisporus o champignon"],
     answer: 2,
     explanation: "C l’Agaricus bisporus o champignon",
 },
 {
     id: "A48",
-    question: ". Il nome scientifico del “piopparello” o “pioppino” è:",
+    question: "Il nome scientifico del “piopparello” o “pioppino” è:",
     options: ["A Armillaria mellea", "B Pholiota nameko", "C Ciclocybe (Agrocybe) aegerita"],
     answer: 2,
     explanation: "C Ciclocybe (Agrocybe) aegerita",
 },
 {
     id: "A49",
-    question: ". Il gelone è una specie fungina:",
+    question: "Il gelone è una specie fungina:",
     options: ["A che non cresce spontaneamente nell’ambiente", "B è scientificamente denominata “Pleurotus ostreatus”", "C è simbionte dei platani"],
     answer: 1,
     explanation: "B è scientificamente denominata “Pleurotus ostreatus”",
 },
 {
     id: "A50",
-    question: ". I porcini di coltivazione:",
+    question: "I porcini di coltivazione:",
     options: ["A hanno il cappello biancastro", "B provengono dalla Sicilia", "C non esistono"],
     answer: 2,
     explanation: "C non esistono",
 },
 {
     id: "A51",
-    question: ". I funghi definiti coltivati:",
+    question: "I funghi definiti coltivati:",
     options: ["A sono quelli di importazione", "B sono tutti quelli che si possono vendere", "C sono quelli che provengono dalle coltivazioni"],
     answer: 2,
     explanation: "C sono quelli che provengono dalle coltivazioni",
 },
 {
     id: "A52",
-    question: ". L'anello:",
+    question: "L'anello:",
     options: ["A è una caratteristica di tutti i funghi magerecci", "B ce l'hanno solo i funghi velenosi", "C è il residuo di un velo che proteggeva la parte fertile del fungo"],
     answer: 2,
     explanation: "C è il residuo di un velo che proteggeva la parte fertile del fungo",
@@ -1333,7 +1333,7 @@ var questions = [
 {
   id: "D14",
   question: "I carpofori vanno raccolti:",
-  options: ["A. con torsione in modo da conservare intatte tutte le caratteristiche morfologiche", "B. con rastrelli", "C. è indifferente come vengono raccolti", "40"],
+  options: ["A. con torsione in modo da conservare intatte tutte le caratteristiche morfologiche", "B. con rastrelli", "C. è indifferente come vengono raccolti"],
   answer: 0,
   explanation: "A. con torsione in modo da conservare intatte tutte le caratteristiche morfologiche",
 },
@@ -1563,7 +1563,7 @@ var questions = [
 },
 {
   id: "E13",
-  question: "E7. Nella raccolta dei funghi è vietato l'uso di rastrelli:",
+  question: "Nella raccolta dei funghi è vietato l'uso di rastrelli:",
   options: ["A. no è permesso", "B. no è permesso solo nei giardini", "C. si per non danneggiare lo strato umifero del terreno"],
   answer: 2,
   explanation: "C. si per non danneggiare lo strato umifero del terreno",
@@ -1571,92 +1571,104 @@ var questions = [
 
     // Add more questions here... testetstes
 ];
-  
-  var currentQuestionIndex = 0;
-  var correctResponses = 0;
-  var incorrectResponses = 0;
-  
-  var questionContainer = document.getElementById("question-container");
-  var questionElement = document.getElementById("question");
-  var optionsElement = document.getElementById("options");
-  var submitButton = document.getElementById("submit-btn");
-  
-  var feedbackContainer = document.getElementById("feedback-container");
-  var feedbackElement = document.getElementById("feedback");
-  var explanationElement = document.getElementById("explanation");
-  var nextButton = document.getElementById("next-btn");
-  
-  var scoreContainer = document.getElementById("score-container");
-  var correctResponsesElement = document.getElementById("correct-responses");
-  var incorrectResponsesElement = document.getElementById("incorrect-responses");
-  
-  function displayQuestion(question) {
-    questionElement.textContent = question.question;
-    optionsElement.innerHTML = "";
-    for (var i = 0; i < question.options.length; i++) {
-      var li = document.createElement("li");
-      var input = document.createElement("input");
-      input.type = "radio";
-      input.name = "option";
-      input.value = i;
-      li.appendChild(input);
-      li.appendChild(document.createTextNode(question.options[i]));
-      optionsElement.appendChild(li);
+    var totalQuestions = questions.length;
+    // Function to shuffle an array using the Fisher-Yates algorithm
+    function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
     }
-  }
-  
-  function validateAnswer(selectedAnswer, correctAnswer) {
-    selectedAnswer = parseInt(selectedAnswer); // Parse selected answer as an integer
-    if (selectedAnswer === correctAnswer) {
-      correctResponses++;
-      feedbackElement.textContent = "Corretto!";
-      feedbackElement.style.color = "green";
-      explanationElement.textContent = "";
-      return true;
-    } else {
-      incorrectResponses++;
-      feedbackElement.textContent = "Sbagliato!";
-      feedbackElement.style.color = "red";
-      explanationElement.textContent = "Risposta esatta: " + questions[currentQuestionIndex].explanation;
-      return false;
+
+    // Shuffle the questions array to randomize the order
+    shuffleArray(questions);
+
+    var currentQuestionIndex = 0;
+    var correctResponses = 0;
+    var incorrectResponses = 0;
+
+    var totalQuestionsElement = document.getElementById("total-questions");
+
+    var questionContainer = document.getElementById("question-container");
+    var questionElement = document.getElementById("question");
+    var optionsElement = document.getElementById("options");
+    var submitButton = document.getElementById("submit-btn");
+
+    var feedbackContainer = document.getElementById("feedback-container");
+    var feedbackElement = document.getElementById("feedback");
+    var explanationElement = document.getElementById("explanation");
+    var nextButton = document.getElementById("next-btn");
+
+    var scoreContainer = document.getElementById("score-container");
+    var correctResponsesElement = document.getElementById("correct-responses");
+    var incorrectResponsesElement = document.getElementById("incorrect-responses");
+
+    function displayQuestion(question) {
+      questionElement.textContent = question.question;
+      totalQuestionsElement.textContent = totalQuestions;
+      optionsElement.innerHTML = "";
+      for (var i = 0; i < question.options.length; i++) {
+        var li = document.createElement("li");
+        var input = document.createElement("input");
+        input.type = "radio";
+        input.name = "option";
+        input.value = i;
+        li.appendChild(input);
+        li.appendChild(document.createTextNode(question.options[i]));
+        optionsElement.appendChild(li);
+      }
     }
-  }
-  
-  
-  function updateScore() {
-    correctResponsesElement.textContent = "Corretto: " + correctResponses;
-    incorrectResponsesElement.textContent = "Sbagliato: " + incorrectResponses;
-  }
-  
-  function showFeedback() {
-    questionContainer.style.display = "none";
-    feedbackContainer.style.display = "block";
-    updateScore();
-  }
-  
-  function showNextQuestion() {
-    currentQuestionIndex++;
-    if (currentQuestionIndex < questions.length) {
-      displayQuestion(questions[currentQuestionIndex]);
-      questionContainer.style.display = "block";
-      feedbackContainer.style.display = "none";
-    } else {
-      // All questions answered
+
+    function validateAnswer(selectedAnswer, correctAnswer) {
+      selectedAnswer = parseInt(selectedAnswer); // Parse selected answer as an integer
+      if (selectedAnswer === correctAnswer) {
+        correctResponses++;
+        feedbackElement.textContent = "Corretto!";
+        feedbackElement.style.color = "green";
+        explanationElement.textContent = "";
+        return true;
+      } else {
+        incorrectResponses++;
+        feedbackElement.textContent = "Sbagliato!";
+        feedbackElement.style.color = "red";
+        explanationElement.textContent = "Risposta esatta: " + questions[currentQuestionIndex].explanation;
+        return false;
+      }
+    }
+
+    function updateScore() {
+      correctResponsesElement.textContent = "Corretto: " + correctResponses;
+      incorrectResponsesElement.textContent = "Sbagliato: " + incorrectResponses;
+    }
+
+    function showFeedback() {
       questionContainer.style.display = "none";
-      feedbackContainer.style.display = "none";
-      scoreContainer.style.display = "block";
+      feedbackContainer.style.display = "block";
+      updateScore();
     }
-  }
-  
-  submitButton.addEventListener("click", function() {
-    var selectedAnswer = document.querySelector('input[name="option"]:checked').value;
-    var isCorrect = validateAnswer(selectedAnswer, questions[currentQuestionIndex].answer);
-    showFeedback();
-  });
-  
-  nextButton.addEventListener("click", function() {
-    showNextQuestion();
-  });
-  
-  displayQuestion(questions[currentQuestionIndex]);
-  
+
+    function showNextQuestion() {
+      currentQuestionIndex++;
+      if (currentQuestionIndex < questions.length) {
+        displayQuestion(questions[currentQuestionIndex]);
+        questionContainer.style.display = "block";
+        feedbackContainer.style.display = "none";
+      } else {
+        // All questions answered
+        questionContainer.style.display = "none";
+        feedbackContainer.style.display = "none";
+        scoreContainer.style.display = "block";
+      }
+    }
+
+    submitButton.addEventListener("click", function() {
+      var selectedAnswer = document.querySelector('input[name="option"]:checked').value;
+      var isCorrect = validateAnswer(selectedAnswer, questions[currentQuestionIndex].answer);
+      showFeedback();
+    });
+
+    nextButton.addEventListener("click", function() {
+      showNextQuestion();
+    });
+
+    displayQuestion(questions[currentQuestionIndex]);
