@@ -1417,7 +1417,7 @@ var questions = [
 {
   id: "D26",
   question: "La raccolta dei funghi è libera:",
-  options: ["A. nei boschi e terreni coltivati", "B. nei boschi e terreni non coltivati", "C. ad un’altezza sul livello di 500 metri", "41"],
+  options: ["A. nei boschi e terreni coltivati", "B. nei boschi e terreni non coltivati", "C. ad un’altezza sul livello di 500 metri"],
   answer: 1,
   explanation: "B. nei boschi e terreni non coltivati",
 },
@@ -1529,7 +1529,7 @@ var questions = [
 {
   id: "E8",
   question: " La raccolta funghi all'interno delle Aziende faunistico venatorie ed agrituristico venatorie:",
-  options: ["A. è sempre", "consentita", "B. è consentita nei giorni di silenzio venatorio", "C. no non è consentita"],
+  options: ["A. è sempre consentita", "B. è consentita nei giorni di silenzio venatorio", "C. no non è consentita"],
   answer: 1,
   explanation: "B. è consentita nei giorni di silenzio venatorio",
 },
