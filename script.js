@@ -1568,6 +1568,3305 @@ var questions = [
   answer: 2,
   explanation: "C. si per non danneggiare lo strato umifero del terreno",
 },
+{
+  id: "Be1",
+  question: " I porcini del gruppo “edulis”:",
+  options: [
+      "A possono essere commercializzati",
+      "B hanno lamelle bianco latte",
+      "C non hanno mai un reticolo sul gambo"
+  ],
+  answer: 0,
+  explanation: "A possono essere commercializzati"
+},
+{
+  id: "Be2",
+  question: " I Boletus del gruppo “edulis” (porcini) hanno la carne:",
+  options: [
+      "A giallastra",
+      "B bianca immutabile",
+      "C bianca che si ossida all’azzurrognolo"
+  ],
+  answer: 1,
+  explanation: "B bianca immutabile"
+},
+{
+  id: "Be3",
+  question: " I “porcini” del gruppo “edulis”:",
+  options: [
+      "A hanno i tubuli sotto il capello",
+      "B da giovani hanno lamelle fittissime",
+      "C possono avere sia lamelle che tubuli ma sempre la carne bianca"
+  ],
+  answer: 0,
+  explanation: "A hanno i tubuli sotto il capello"
+},
+{
+  id: "Be4",
+  question: " I “porcini” del gruppo “edulis” hanno sempre:",
+  options: [
+      "A la carne bianca a sapore mite ed il gambo reticolato",
+      "B il gambo squamato ed ingrassato",
+      "C le verruche o squamette sul cappello"
+  ],
+  answer: 0,
+  explanation: "A la carne bianca a sapore mite ed il gambo reticolato"
+},
+{
+  id: "Be5",
+  question: " I “porcini” del gruppo “edulis” si riconoscono perché:",
+  options: [
+      "A hanno sempre il gambo di diametro maggiore del cappello",
+      "B presentano le caratteristiche proprie del gruppo di appartenenza",
+      "C sono gli unici funghi di colore marrone"
+  ],
+  answer: 1,
+  explanation: "B presentano le caratteristiche proprie del gruppo di appartenenza"
+},
+{
+  id: "Be6",
+  question: " Le boletacee a carne bianca immutabile:",
+  options: [
+      "A sono rappresentate dai Boletus del gruppo “edulis”",
+      "B sono tutte commestibili",
+      "C possono comprendere anche specie non commestibili"
+  ],
+  answer: 0,
+  explanation: "A sono rappresentate dai Boletus del gruppo “edulis”"
+},
+{
+  id: "Be7",
+  question: " Con il termine “Porcini” sono da intendersi i boleti:",
+  options: [
+      "A del genere Suillus",
+      "B del gruppo edulis",
+      "C del genere Leccinum"
+  ],
+  answer: 1,
+  explanation: "B del gruppo edulis"
+},
+{
+  id: "Be8",
+  question: " Quale delle seguenti specie fa parte dei Boletus del gruppo edulis:",
+  options: [
+      "A Butyriboletus regius",
+      "B Boletus aereus",
+      "C Suinellus luridus"
+  ],
+  answer: 1,
+  explanation: "B Boletus aereus"
+},
+{
+  id: "Be9",
+  question: " Con quale boletacea si possono facilmente confondere i Boletus del gruppo edulis :",
+  options: [
+      "A Tylopilus o Boletus felleus",
+      "B Cyanoboletus pulverulentus",
+      "C Suillus granulatus"
+  ],
+  answer: 0,
+  explanation: "A Tylopilus o Boletus felleus"
+},
+{
+  id: "Be10",
+  question: ". La carne dei Boleti del gruppo dell’edulis è :",
+  options: [
+      "A leggermente amara sotto la cuticola",
+      "B generalmente bianca a sapore mite",
+      "C bianca da giovane poi giallastra",
+      "12"
+  ],
+  answer: 1,
+  explanation: "B generalmente bianca a sapore mite"
+},
+{
+  id: "Be11",
+  question: ". I Boleti del gruppo dell’edulis:",
+  options: [
+      "A sono sempre leggermente amar",
+      "B si possono confondere con le cosiddette mazze di tamburo",
+      "C hanno un gambo più o meno reticolato"
+  ],
+  answer: 2,
+  explanation: "C hanno un gambo più o meno reticolato"
+},
+{
+  id: "Be12",
+  question: ". I Boleti del gruppo dell’edulis:",
+  options: [
+      "A comprendono una sola specie fungina, il Boletus edulis",
+      "B sono più di uno",
+      "C rappresentano un gruppo numerosissimo di oltre 50 specie"
+  ],
+  answer: 1,
+  explanation: "B sono più di uno"
+},
+{
+  id: "Be13",
+  question: ". I Boleti del gruppo dell’edulis si possono confondere:",
+  options: [
+      "A solo con altre Boletaceae",
+      "B in taluni casi con le Morchelle",
+      "C anche con specie di conformazione analoga ma che hanno le lamelle"
+  ],
+  answer: 0,
+  explanation: "A solo con altre Boletaceae"
+},
+{
+  id: "Be14",
+  question: ". I Boleti del gruppo dell’edulis si possono commercializzare:",
+  options: [
+      "A solo allo stato fresco",
+      "B solo freschi ma non confezionati",
+      "C anche se diversamente conservati"
+  ],
+  answer: 2,
+  explanation: "C anche se diversamente conservati"
+},
+{
+  id: "Be15",
+  question: ". I « porcini » migliori sono quelli che :",
+  options: [
+      "A provengono da coltivazioni biologiche",
+      "B vengono importati",
+      "C quelli sani ed in buono stato di conservazione"
+  ],
+  answer: 2,
+  explanation: "C quelli sani ed in buono stato di conservazione"
+},
+{
+  id: "Be16",
+  question: ". I Boleti del gruppo dell’edulis presenti sul mercato nazionale:",
+  options: [
+      "A provengono da coltivazioni",
+      "B sono tutti di origine nazionale",
+      "C sono generalmente di importazione"
+  ],
+  answer: 2,
+  explanation: "C sono generalmente di importazione"
+},
+{
+  id: "Be17",
+  question: ". I Boleti del gruppo dell’edulis in vendita allo stato fresco:",
+  options: [
+      "A devono essere bagnati spesso con acqua fresca",
+      "B devono avere un colore uniforme",
+      "C devono essere spesso verificati circa lo stato di conservazione"
+  ],
+  answer: 2,
+  explanation: "C devono essere spesso verificati circa lo stato di conservazione"
+},
+{
+  id: "Be18",
+  question: ". Il Boletus aestivalis o reticulatus è una boletacea:",
+  options: [
+      "A tipicamente medioorientale",
+      "B del gruppo dell’edulis",
+      "C diversa da quelle del gruppo edulis"
+  ],
+  answer: 1,
+  explanation: "B del gruppo dell’edulis"
+},
+{
+  id: "Be1",
+  question: ". Il Boletus aereus è una boletacea:",
+  options: [
+      "A dello stesso gruppo dell’edulis",
+      "B che non esiste",
+      "C che cresce solo oltre i duemila metri di quota"
+  ],
+  answer: 0,
+  explanation: "A dello stesso gruppo dell’edulis"
+},
+{
+  id: "Be20",
+  question: "Il Boletus aereus ha il cappello tipicamente di colore:",
+  options: [
+      "A bruno nerastro",
+      "B nocciola tenue",
+      "C biancastro"
+  ],
+  answer: 0,
+  explanation: "A bruno nerastro"
+},
+{
+  id: "Be21",
+  question: ". Il Boletus pinophilus o pinicola è una boletacea:",
+  options: [
+      "A tipica delle pinete maremmane",
+      "B appartenente allo stesso gruppo dell’edulis",
+      "C che cresce sulle ceppaie di pino"
+  ],
+  answer: 1,
+  explanation: "B appartenente allo stesso gruppo dell’edulis"
+},
+{
+  id: "Be22",
+  question: ". Il Boletus pinophilus o pinicola:",
+  options: [
+      "A cresce solo nei boschi di pino",
+      "B appartiene allo stesso gruppo dell’edulis",
+      "C che cresce sulle ceppaie di pino"
+  ],
+  answer: 1,
+  explanation: "B appartiene allo stesso gruppo dell’edulis"
+},
+{
+  id: "Be23",
+  question: ". Il Boletus pinophilus o pinicola ha il cappello tipicamente di colore:",
+  options: [
+      "A bruno rossastro",
+      "B giallastro",
+      "C verdastro",
+      "13"
+  ],
+  answer: 0,
+  explanation: "A bruno rossastro"
+},
+{
+  id: "Be24",
+  question: "Il Boletus edulis ha il cappello di colore:",
+  options: [
+      "A marrone",
+      "B rosso",
+      "C nerastro"
+  ],
+  answer: 0,
+  explanation: "A marrone"
+},
+{
+  id: "Be25",
+  question: ". Nei primi stadi di sviluppo i Boleti del gruppo edulis:",
+  options: [
+      "A hanno l’anello",
+      "B possono essere confusi anche con specie lamellate",
+      "C risultano disgustosi"
+  ],
+  answer: 1,
+  explanation: "B possono essere confusi anche con specie lamellate"
+},
+{
+  id: "Be26",
+  question: ". I Boletus del gruppo edulis:",
+  options: [
+      "A si consumano solo crudi in insalata",
+      "B si possono consumare crudi se sono giovani ma in quantitativi modesti",
+      "C non si prestano ad essere essiccati"
+  ],
+  answer: 1,
+  explanation: "B si possono consumare crudi se sono giovani ma in quantitativi modesti"
+},
+{
+  id: "Be27",
+  question: ". I Boletus del gruppo edulis freschi:",
+  options: [
+      "A possono essere facilmente invasi da larve di insetti",
+      "B non sono mai invasi da larve",
+      "C svolgono la funzione di insetticida naturale"
+  ],
+  answer: 0,
+  explanation: "A possono essere facilmente invasi da larve di insetti"
+},
+{
+  id: "Be28",
+  question: ". In alcuni casi il consumo di Boletus del gruppo edulis:",
+  options: [
+      "A crea condizioni di euforia",
+      "B deve essere accompagnato dal consumo di superalcolici",
+      "C potrebbe dar luogo a manifestazioni cliniche di intolleranza alimentare"
+  ],
+  answer: 2,
+  explanation: "C potrebbe dar luogo a manifestazioni cliniche di intolleranza alimentare"
+},
+{
+  id: "Be29",
+  question: ". I Boletus del gruppo edulis freschi vanno consumati:",
+  options: [
+      "A nel più breve tempo possibile",
+      "B non più tardi di 10 giorni dall’acquisto",
+      "C anche dopo due settimane se sono certificati"
+  ],
+  answer: 0,
+  explanation: "A nel più breve tempo possibile"
+},
+{
+  id: "Am1",
+  question: " L’Armillaria mellea:",
+  options: [
+      "A è volgarmente chiamata “chiodino”",
+      "B cresce solo nelle Marche",
+      "C è una specie solitaria"
+  ],
+  answer: 0,
+  explanation: "A è volgarmente chiamata “chiodino”"
+},
+{
+  id: "Am2",
+  question: " L’Armillaria mellea:",
+  options: [
+      "A si può consumare solo cruda",
+      "B Può rivelarsi tossica se consumata poco cotta",
+      "C è una specie sempre commestibile"
+  ],
+  answer: 1,
+  explanation: "B Può rivelarsi tossica se consumata poco cotta"
+},
+{
+  id: "Am3",
+  question: " L’Armillaria mellea è una specie fungina:",
+  options: [
+      "A simbionte",
+      "B parassita o saprofita",
+      "C coltivata"
+  ],
+  answer: 1,
+  explanation: "B parassita o saprofita"
+},
+{
+  id: "Am4",
+  question: " L’Armillaria mellea ha la carne:",
+  options: [
+      "A bianca",
+      "B rosata",
+      "C nerastra"
+  ],
+  answer: 0,
+  explanation: "A bianca"
+},
+{
+  id: "Am5",
+  question: " L’Armillaria mellea è una specie fungina con:",
+  options: [
+      "A volva",
+      "B tubuli",
+      "C anello"
+  ],
+  answer: 2,
+  explanation: "C anello"
+},
+{
+  id: "Am6",
+  question: " L’Armillaria mellea commercializzata:",
+  options: [
+      "A cresce spontanea",
+      "B proviene solo da coltivazioni",
+      "C viene allevata in grotte"
+  ],
+  answer: 0,
+  explanation: "A cresce spontanea"
+},
+{
+  id: "Am7",
+  question: " L’Armillaria mellea cresce:",
+  options: [
+      "A solo in pianura",
+      "B sia in pianura che in montagna",
+      "C solo sulle aghifoglie"
+  ],
+  answer: 1,
+  explanation: "B sia in pianura che in montagna"
+},
+{
+  id: "Am8",
+  question: "  Per consumare tranquillamente l’Armillaria mellea è necessario:",
+  options: [
+      "A  eliminare le lamelle e l’anello",
+      "B  consumarla a crudo",
+      "C  farla bollire in acqua prima di cucinarla e buttare via l’acqua di cottura"
+  ],
+  answer: 2,
+  explanation: "C  farla bollire in acqua prima di cucinarla e buttare via l’acqua di cottura"
+},
+{
+  id: "Am9",
+  question: " L’Armillaria mellea consumata cruda o poco cotta:",
+  options: [
+      "A è più gustosa",
+      "B risulta spesso tossica",
+      "C rimane più morbida"
+  ],
+  answer: 1,
+  explanation: "B risulta spesso tossica"
+},
+{
+  id: "Am10",
+  question: ". L’Armillaria mellea ha:",
+  options: [
+      "A sempre un anello e le lamelle bianche",
+      "B non ha mai l’anello ma una volva",
+      "C ha sempre lamelle colorate ed una cortina"
+  ],
+  answer: 0,
+  explanation: "A sempre un anello e le lamelle bianche"
+},
+{
+  id: "Am11",
+  question: ". L’Armillaria mellea ha le lamelle di colore:",
+  options: [
+      "A bianco",
+      "B marrone",
+      "C rosa"
+  ],
+  answer: 0,
+  explanation: "A bianco"
+},
+{
+  id: "Am12",
+  question: ". L’Armillaria mellea ha la carne di colore:",
+  options: [
+      "A bianco",
+      "B marrone",
+      "C rosa"
+  ],
+  answer: 0,
+  explanation: "A bianco"
+},
+{
+  id: "Am13",
+  question: ". L’Armillaria mellea ha la carne di odore:",
+  options: [
+      "A inebriante",
+      "B forte e pungente",
+      "C fungino"
+  ],
+  answer: 2,
+  explanation: "C fungino"
+},
+{
+  id: "Am14",
+  question: ". L’Armillaria mellea sul cappello ha sempre:",
+  options: [
+      "A fini squamette simili a peluria più dense al centro",
+      "B residui di volva biancastri",
+      "C una cuticola liscia di colore uniforme"
+  ],
+  answer: 0,
+  explanation: "A fini squamette simili a peluria più dense al centro"
+},
+{
+  id: "Am15",
+  question: ". L’Armillaria mellea ha il cappello il cui colore:",
+  options: [
+      "A è sempre lo stesso",
+      "B può variare moltissimo",
+      "C dipende dall’altitudine"
+  ],
+  answer: 1,
+  explanation: "B può variare moltissimo"
+},
+{
+  id: "Am16",
+  question: ". L’Armillaria mellea cresce:",
+  options: [
+      "A di norma cespitosa",
+      "B sempre singolarmente",
+      "C solo in pianura"
+  ],
+  answer: 0,
+  explanation: "A di norma cespitosa"
+},
+{
+  id: "Am17",
+  question: ". L’Armillaria mellea che si trova in vendita allo stato fresco sfuso:",
+  options: [
+      "A deve essere consumata entro dieci giorni dall’acquisto",
+      "B deve essere stata abbondantemente lavata",
+      "C deve essere sana e consumata il più presto possibile"
+  ],
+  answer: 2,
+  explanation: "C deve essere sana e consumata il più presto possibile"
+},
+{
+  id: "Am18",
+  question: ". L’Armillaria mellea ha sempre:",
+  options: [
+      "A il cappello leggermente viscido soprattutto a tempo umido",
+      "B la volva e le squame sul cappello",
+      "C la carne giallastra"
+  ],
+  answer: 0,
+  explanation: "A il cappello leggermente viscido soprattutto a tempo umido"
+},
+{
+  id: "Am19",
+  question: ". L’Armillaria mellea ha il cappello con colori:",
+  options: [
+      "A sempre chiari",
+      "B molto variabili",
+      "C cupi all’imbrunire"
+  ],
+  answer: 1,
+  explanation: "B molto variabili"
+},
+{
+  id: "Am20",
+  question: ". L’Armillaria mellea:",
+  options: [
+      "A cresce generalmente cespitosa",
+      "B non ha mai le lamelle bianche",
+      "C ha la carne nerastra",
+      "15"
+  ],
+  answer: 0,
+  explanation: "A cresce generalmente cespitosa"
+},
+{
+  id: "Am21",
+  question: "L’Armillaria mellea si può confondere:",
+  options: [
+      "A con specie fungine cespitose simili",
+      "B con i Boleti dei pini",
+      "C con le Russula ed i Lactarius"
+  ],
+  answer: 0,
+  explanation: "A con specie fungine cespitose simili"
+},
+{
+  id: "Am22",
+  question: ". L’Armillaria mellea si può facilmente confondere:",
+  options: [
+      "A con tutti i funghi che hanno l’anello e gli aculei",
+      "B con funghi a lamelle cespitosi",
+      "C con i Tricholoma e gli Hygrophorus"
+  ],
+  answer: 1,
+  explanation: "B con funghi a lamelle cespitosi"
+},
+{
+  id: "Am23",
+  question: ". L’Armillaria mellea si distingue dai falsi chiodini perchè:",
+  options: [
+      "A non è mai cespitosa",
+      "B ha un odore di melanzana marcia",
+      "C ha l’anello e le lamelle bianche"
+  ],
+  answer: 2,
+  explanation: "C ha l’anello e le lamelle bianche"
+},
+{
+  id: "Am24",
+  question: ". L’Armillaria mellea esposta in vendita:",
+  options: [
+      "A deve riportare solo il nome volgare con la quale è conosciuta",
+      "B deve essere rinfrescata ogni 20 minuti",
+      "C deve riportare anche le modalità di utilizzazione"
+  ],
+  answer: 2,
+  explanation: "C deve riportare anche le modalità di utilizzazione"
+},
+{
+  id: "Am25",
+  question: ". L’Armillaria mellea esposta in vendita:",
+  options: [
+      "A deve riportare anche il nome scientifico e la provenienza",
+      "B deve indicare il sistema di allevamento",
+      "C deve riportare solo il prezzo di vendita"
+  ],
+  answer: 0,
+  explanation: "A deve riportare anche il nome scientifico e la provenienza"
+},
+{
+  id: "Am26",
+  question: ". La vendita di Armillaria mellea comporta anche:",
+  options: [
+      "A l’obbligo della sua certificazione",
+      "B la presenza nelle vicinanze di un Micologo abilitato",
+      "C l’utilizzo di soli contenitori di cartoncino stampato"
+  ],
+  answer: 0,
+  explanation: "A l’obbligo della sua certificazione"
+},
+{
+  id: "Am27",
+  question: ". La vendita di Armillaria mellea:",
+  options: [
+      "A è libera",
+      "B è subordinata a certificazione sanitaria",
+      "C deve avvenire solo nei siti indicati dall’AST"
+  ],
+  answer: 1,
+  explanation: "B è subordinata a certificazione sanitaria"
+},
+{
+  id: "Am28",
+  question: ". Con il nome volgare di “chiodino” si deve intendere:",
+  options: [
+      "A la Pholiota nameko",
+      "B la Ciclocybe aegerita",
+      "C l’Armillaria mellea"
+  ],
+  answer: 2,
+  explanation: "C l’Armillaria mellea"
+},
+{
+  id: "Ac1",
+  question: " L’Amanita caesarea è un fungo:",
+  options: [
+      "A con lamelle",
+      "B con tubuli",
+      "C con aculei"
+  ],
+  answer: 0,
+  explanation: "A con lamelle"
+},
+{
+  id: "Ac2",
+  question: " L’Amanita caesarea:",
+  options: [
+      "A non si può commercializzare nei negozi di vicinato",
+      "B viene coltivata a Cesarea",
+      "C allo stato di ovolo si può confondere con specie mortali"
+  ],
+  answer: 2,
+  explanation: "C allo stato di ovolo si può confondere con specie mortali"
+},
+{
+  id: "Ac3",
+  question: " L’ovolo di Amanita caesarea si può confondere con:",
+  options: [
+      "A L’ovolo di Amanita phalloides",
+      "B le Russula gialle immature",
+      "C le Morchelle"
+  ],
+  answer: 0,
+  explanation: "A L’ovolo di Amanita phalloides"
+},
+{
+  id: "Ac4",
+  question: " I funghi del genere Amanita commercializzabili:",
+  options: [
+      "A sono molti",
+      "B vi è solo l’Amanita caesarea",
+      "C vi sono anche tutte le specie italiane"
+  ],
+  answer: 1,
+  explanation: "B vi è solo l’Amanita caesarea"
+},
+{
+  id: "Ac5",
+  question: " L’Amanita caesarea è un fungo molto simile:",
+  options: [
+      "A all’Armillaria mellea",
+      "B alle Amanita bianche",
+      "C alle Amanita con cappello rosso o arancio"
+  ],
+  answer: 2,
+  explanation: "C alle Amanita con cappello rosso o arancio"
+},
+{
+  id: "Ac6",
+  question: " L’Amanita caesarea ha:",
+  options: [
+      "A  le lamelle ed il gambo giallo oro",
+      "B le lamelle ed il gambo biancastri",
+      "C  non ha le lamelle ma il gambo è giallo"
+  ],
+  answer: 0,
+  explanation: "A  le lamelle ed il gambo giallo oro"
+},
+{
+  id: "Ac7",
+  question: " L’Amanita caesarea ha:",
+  options: [
+      "A l’anello giallo e la volva bianca",
+      "B non ha la volva ma solo l’anello",
+      "C non ha ne volva ne anello"
+  ],
+  answer: 0,
+  explanation: "A l’anello giallo e la volva bianca"
+},
+{
+  id: "Ac8",
+  question: " L’Amanita caesarea ha:",
+  options: [
+      "A le lamelle gialle ed il cappello arancione",
+      "B le lamelle ed il gambo bianco candido",
+      "C le lamelle ed il cappello verde olivastro"
+  ],
+  answer: 0,
+  explanation: "A le lamelle gialle ed il cappello arancione"
+},
+{
+  id: "Ac9",
+  question: " L’Amanita caesarea si può consumare:",
+  options: [
+      "A solo dopo prolungata cottura",
+      "B solamente cruda in insalata",
+      "C sia da cotta che da cruda"
+  ],
+  answer: 2,
+  explanation: "C sia da cotta che da cruda"
+},
+{
+  id: "Ac10",
+  question: ". L’Amanita caesarea è:",
+  options: [
+      "A il fungo più abbondante in natura",
+      "B tipica dei boschi di alta quota",
+      "C può essere confusa con specie mortali"
+  ],
+  answer: 2,
+  explanation: "C può essere confusa con specie mortali"
+},
+{
+  id: "Ac11",
+  question: ". L’Amanita caesarea:",
+  options: [
+      "A non si può raccogliere in Italia allo stato di ovolo",
+      "B non si può vendere allo stato di ovolo",
+      "C non si può consumare allo stato di ovolo"
+  ],
+  answer: 0,
+  explanation: "A non si può raccogliere in Italia allo stato di ovolo"
+},
+{
+  id: "Ac12",
+  question: ". L’Amanita caesarea:",
+  options: [
+      "A non cresce in Italia",
+      "B è una specie fungina spontanea",
+      "C viene coltivata industrialmente"
+  ],
+  answer: 1,
+  explanation: "B è una specie fungina spontanea"
+},
+{
+  id: "Ac13",
+  question: ". Il più noto nome volgare dell’Amanita caesarea è:",
+  options: [
+      "A ovulaccio delle coliche",
+      "B ovolo buono",
+      "C ovulo di cesarea"
+  ],
+  answer: 1,
+  explanation: "B ovolo buono"
+},
+{
+  id: "Ac14",
+  question: ". Il nome scientifico del cosiddetto “ovolo buono” è:",
+  options: [
+      "A Amanita ovoidea",
+      "B Amanita caesarea",
+      "C Amanita aureola"
+  ],
+  answer: 1,
+  explanation: "B Amanita caesarea"
+},
+{
+  id: "Ac15",
+  question: ". Nell’Amanita caesarea vi è sempre la presenza di:",
+  options: [
+      "A lamelle e gambo giallo oro",
+      "B fini squamette nerastre sul cappello",
+      "C gambo ingrossato privo di anello"
+  ],
+  answer: 0,
+  explanation: "A lamelle e gambo giallo oro"
+},
+{
+  id: "Ac16",
+  question: ". Fra i segni di alterazione dell’Amanita caesarea si riscontra:",
+  options: [
+      "A l’assenza assoluta di odore",
+      "B la presenza di odore di uova marce",
+      "C la formazione di colonie di lieviti neri"
+  ],
+  answer: 1,
+  explanation: "B la presenza di odore di uova marce"
+},
+{
+  id: "Ac17",
+  question: ". L’Amanita caesarea può essere commercializzata quando:",
+  options: [
+      "A ogni esemplare pesa almeno 50 grammi",
+      "B proviene da idonei stabilimenti di coltivazione",
+      "C è stata rigorosamente verificata e certificata"
+  ],
+  answer: 2,
+  explanation: "C è stata rigorosamente verificata e certificata"
+},
+{
+  id: "Ac18",
+  question: ". La commercializzazione dell’Amanita caesarea:",
+  options: [
+      "A in Italia è liberamente consentita senza obblighi",
+      "B è subordinata a certificazione sanitaria",
+      "C deve essere fatta solo in confezioni sigillate"
+  ],
+  answer: 1,
+  explanation: "B è subordinata a certificazione sanitaria"
+},
+{
+  id: "Ac19",
+  question: " L’Amanita caesarea può diventare pericolosa quando:",
+  options: [
+      "A comincia a puzzare",
+      "B ha perso la volva",
+      "C perde sia l'anello che la volva"
+  ],
+  answer: 0,
+  explanation: "A comincia a puzzare"
+},
+{
+  id: "Ac20",
+  question: ". L’Amanita caesarea:",
+  options: [
+      "A non cresce sulle piante",
+      "B è abbondante in pianura",
+      "C cresce solo sulle aghifoglie"
+  ],
+  answer: 0,
+  explanation: "A non cresce sulle piante"
+},
+{
+  id: "Ac21",
+  question: ". L’Amanita caesarea:",
+  options: [
+      "A non viene coltivata",
+      "B viene coltivata in Messico",
+      "C si coltiva assieme alle orecchiette"
+  ],
+  answer: 0,
+  explanation: "A non viene coltivata"
+},
+{
+  id: "Ac22",
+  question: ". L’Amanita caesarea fresca si conserva:",
+  options: [
+      "A in luoghi caldo umidi",
+      "B al buio",
+      "C in luoghi freschi ed aerati"
+  ],
+  answer: 2,
+  explanation: "C in luoghi freschi ed aerati"
+},
+{
+  id: "Ac23",
+  question: ". Nella fase di vendita l’Amanita caesarea:",
+  options: [
+      "A deve essere aspersa spesso con acqua zuccherata",
+      "B è preferibile sia mantenuta con il gambo in un bagno d’acqua",
+      "C deve avere il cartellino di certificazione sanitaria"
+  ],
+  answer: 2,
+  explanation: "C deve avere il cartellino di certificazione sanitaria"
+},
+{
+  id: "Ac24",
+  question: ". Nella fase di vendita dell’Amanita caesarea:",
+  options: [
+      "A deve essere indicata la provenienza",
+      "B devono essere indicati gli ingredienti",
+      "C bisogna esporre l’indirizzo dell’importatore"
+  ],
+  answer: 0,
+  explanation: "A deve essere indicata la provenienza"
+},
+{
+  id: "Ac25",
+  question: ". L’Amanita caesarea avariata:",
+  options: [
+      "A può essere destinata all’essiccamento",
+      "B ha un forte odore simile alle uova marce",
+      "C viene utilizzata per colorare i mangimi"
+  ],
+  answer: 1,
+  explanation: "B ha un forte odore simile alle uova marce"
+},
+{
+  id: "Ac26",
+  question: ". La carne dell’Amanita caesarea:",
+  options: [
+      "A è biancastra con poco odore ed un sapore gradevole",
+      "B è verdastra con odore e sapore leggermente piccanti",
+      "C è pressoché assente nel gambo ma è concentrata nella volva"
+  ],
+  answer: 0,
+  explanation: "A è biancastra con poco odore ed un sapore gradevole"
+},
+{
+  id: "Ac27",
+  question: ". L’ovolo sezionato dell’Amanita caesarea:",
+  options: [
+      "A non è mai completamente bianco",
+      "B presenta una diffusa peluria al centro",
+      "C diventa rossastro a contatto con l’aria"
+  ],
+  answer: 0,
+  explanation: "A non è mai completamente bianco"
+},
+{
+  id: "Ac28",
+  question: ". L’ovolo dell’Amanita caesarea:",
+  options: [
+      "A ha il guscio rossiccio",
+      "B è molto piccolo",
+      "C è simile agli ovoli delle altre Amanita"
+  ],
+  answer: 2,
+  explanation: "C è simile agli ovoli delle altre Amanita"
+},
+{
+  id: "Cc1",
+  question: " I funghi del genere Cantharellus:",
+  options: [
+      "A non hanno lamelle ma delle venature, costolature sotto il cappello",
+      "B hanno evidenti lamelle gialle",
+      "C hanno anelli molto pronunciati"
+  ],
+  answer: 0,
+  explanation: "A non hanno lamelle ma delle venature, costolature sotto il cappello"
+},
+{
+  id: "Cc2",
+  question: " I funghi del genere Cantharellus:",
+  options: [
+      "A sono in gran parte tossici",
+      "B non si possono commercializzare sottopeso",
+      "C sono tutti commercializzabili"
+  ],
+  answer: 2,
+  explanation: "C sono tutti commercializzabili"
+},
+{
+  id: "Cc3",
+  question: " I funghi del genere Cantharellus:",
+  options: [
+      "A non crescono in italia",
+      "B provengono tutti da coltivazioni",
+      "C sono tutti commestibili"
+  ],
+  answer: 2,
+  explanation: "C sono tutti commestibili"
+},
+{
+  id: "Cc4",
+  question: " I funghi del genere Cantharellus si riconoscono:",
+  options: [
+      "A perché non hanno veli ne lamelle ma pseudolamelle sotto il cappello",
+      "B sono tutti gialli",
+      "C hanno volve molto fugaci"
+  ],
+  answer: 0,
+  explanation: "A perché non hanno veli ne lamelle ma pseudolamelle sotto il cappello"
+},
+{
+  id: "Cc5",
+  question: " Il Cantharellus maggiormente commercializzato in Italia è:",
+  options: [
+      "A il Cantharellus melanoxeros",
+      "B il Cantharellus cinereus",
+      "C il Cantharellus cibarius"
+  ],
+  answer: 2,
+  explanation: "C il Cantharellus cibarius"
+},
+{
+  id: "Cc6",
+  question: " Il nome scientifico del finferlo o giallino o galletto è:",
+  options: [
+      "A Armillaria mellea",
+      "B Russula virescens",
+      "C Cantharellus cibarius"
+  ],
+  answer: 2,
+  explanation: "C Cantharellus cibarius"
+},
+{
+  id: "Cc7",
+  question: " Il Cantharellus cibarius è di tipico colore:",
+  options: [
+      "A verdognolo",
+      "B brunastro",
+      "C giallastro"
+  ],
+  answer: 2,
+  explanation: "C giallastro"
+},
+{
+  id: "Cc8",
+  question: " Il Cantharellus cibarius ha sempre:",
+  options: [
+      "A un vistoso anello arancione",
+      "B delle pseudolamelle decorrenti sul gambo",
+      "C il gambo più grosso del cappello"
+  ],
+  answer: 1,
+  explanation: "B delle pseudolamelle decorrenti sul gambo"
+},
+{
+  id: "Cc9",
+  question: " Il Cantharellus cibarius:",
+  options: [
+      "A si può confondere con funghi gialli a lamelle analoghi",
+      "B cambia di colore in cottura",
+      "C non si può essiccare"
+  ],
+  answer: 0,
+  explanation: "A si può confondere con funghi gialli a lamelle analoghi"
+},
+{
+  id: "Cc10",
+  question: ". Le specie fungine che appartengono al genere Cantharellus:",
+  options: [
+      "A sono tutte gialle",
+      "B comprendono alcune specie molto velenose",
+      "C sono tutte commercializzabili"
+  ],
+  answer: 2,
+  explanation: "C sono tutte commercializzabili"
+},
+{
+  id: "Cc11",
+  question: ". Il Cantharellus cibarius:",
+  options: [
+      "A cresce spontaneo in natura",
+      "B viene normalmente coltivato",
+      "C cresce solo nell’Est europeo"
+  ],
+  answer: 0,
+  explanation: "A cresce spontaneo in natura"
+},
+{
+  id: "Cc12",
+  question: ". Oltre al Cantharellus cibarius viene spesso commercializzato:",
+  options: [
+      "A il Craterellus lutescens detto volgarmente finferla",
+      "B il Cantharellus friesii",
+      "C il Cantharellus pallens"
+  ],
+  answer: 0,
+  explanation: "A il Craterellus lutescens detto volgarmente finferla"
+},
+{
+  id: "Cc13",
+  question: ". Il tipico nome volgare del Craterellus lutescens è:",
+  options: [
+      "A finferla",
+      "B verdina",
+      "C cantarella"
+  ],
+  answer: 0,
+  explanation: "A finferla"
+},
+{
+  id: "Cc14",
+  question: ". Il Craterellus lutescens è una specie fungina",
+  options: [
+      "A commercializzabile",
+      "B velenosa se consumata dopo abbondante cottura",
+      "C tipicamente primaverile"
+  ],
+  answer: 0,
+  explanation: "A commercializzabile"
+},
+{
+  id: "Cc15",
+  question: ". I Cantharellus commercializzabili si possono vendere:",
+  options: [
+      "A solo allo stato fresco",
+      "B sia freschi che comunque conservati",
+      "C solo freschi o essiccati"
+  ],
+  answer: 1,
+  explanation: "B sia freschi che comunque conservati"
+},
+{
+  id: "Cc16",
+  question: "Fra le diverse specie di cantharellus commercibilizzabili:",
+  options: [
+      "A  ve ne sono parecchie velenose",
+      "B  vi sono almeno un paio sospette di essere tossiche",
+      "C  non vi sono specie tossiche"
+  ],
+  answer: 2,
+  explanation: "C  non vi sono specie tossiche"
+},
+{
+  id: "Cc17",
+  question: ". I Cantharellus tossici:",
+  options: [
+      "A hanno colori grigio-nerastri",
+      "B sono tutti gialli",
+      "C non esistono"
+  ],
+  answer: 2,
+  explanation: "C non esistono"
+},
+{
+  id: "Cc18",
+  question: ". Quali specie di Cantharellus sono da ritenere tossiche:",
+  options: [
+      "A tutte quelle di colore verdognolo",
+      "B quelle con odore molto disgustoso",
+      "C nessuna"
+  ],
+  answer: 2,
+  explanation: "C nessuna"
+},
+{
+  id: "Cc19",
+  question: ". I Cantharellus sono specie fungine:",
+  options: [
+      "A piuttosto rare",
+      "B che non comprendono specie tossiche",
+      "C abbondanti soprattutto nei prati e giardini"
+  ],
+  answer: 1,
+  explanation: "B che non comprendono specie tossiche"
+},
+{
+  id: "Cc20",
+  question: ". Il Cantharellus cibarius:",
+  options: [
+      "A ha la carne bianca ed un gradevole odore di frutta",
+      "B ha la volva ed un lieve sapore amarognolo",
+      "C assomiglia molto alle Amanita giovani"
+  ],
+  answer: 0,
+  explanation: "A ha la carne bianca ed un gradevole odore di frutta"
+},
+{
+  id: "Cc21",
+  question: ". Il Cantharellus cibarius:",
+  options: [
+      "A ha una caratteristica squamettatura nera sul gambo",
+      "B ha un pronunciato odore di rapa",
+      "C non ha nè anello nè volva"
+  ],
+  answer: 2,
+  explanation: "C non ha nè anello nè volva"
+},
+{
+  id: "Cc22",
+  question: ". Il Cantharellus cibarius è di tipico colore:",
+  options: [
+      "A giallo",
+      "B grigiastro",
+      "C verdognolo"
+  ],
+  answer: 0,
+  explanation: "A giallo"
+},
+{
+  id: "Cc23",
+  question: ". Il Cantharellus cibarius fresco si conserva:",
+  options: [
+      "A anche alcuni mesi se trattato con conservanti",
+      "B per alcuni giorni in luoghi freschi ed aerati",
+      "C in contenitori a chiusura ermetica"
+  ],
+  answer: 1,
+  explanation: "B per alcuni giorni in luoghi freschi ed aerati"
+},
+{
+  id: "Cc24",
+  question: ". I funghi del genere Cantharellus:",
+  options: [
+      "A crescono sulle piante viventi",
+      "B non vanno raccolti di giorno",
+      "C si possono commercializzare anche essiccati"
+  ],
+  answer: 2,
+  explanation: "C si possono commercializzare anche essiccati"
+},
+{
+  id: "Cc25",
+  question: ". Il Cantharellus cibarius:",
+  options: [
+      "A è completamente giallo e senza anello, volva o cortine",
+      "B si può confondere con l’Amanita caesarea",
+      "C ha il gambo ed il centro del capello macchiati di azzurrognolo"
+  ],
+  answer: 0,
+  explanation: "A è completamente giallo e senza anello, volva o cortine"
+},
+{
+  id: "Cc26",
+  question: ". Il Cantharellus cibarius è facilmente confondibile con:",
+  options: [
+      "A l’Agaricus bisporus delle foreste",
+      "B il Pleurorus ostreatus selvatico",
+      "C l’Omphalotus olearius"
+  ],
+  answer: 2,
+  explanation: "C l’Omphalotus olearius"
+},
+{
+  id: "Cc27",
+  question: ". Il Cantharellus cibarius si riconosce:",
+  options: [
+      "A dalla caratteristica cresta di gallo sul cappello",
+      "B dalla caratteristica parte imeniale, sottostante il cappello",
+      "C per la caratteristica colorazione violacea dell’anello"
+  ],
+  answer: 1,
+  explanation: "B dalla caratteristica parte imeniale, sottostante il cappello"
+},
+{
+  id: "Cc28",
+  question: ". Il Cantharellus cibarius si deve consumare:",
+  options: [
+      "A dopo cottura",
+      "B crudo in insalata con i chiodini",
+      "C esclusivamente la sera"
+  ],
+  answer: 0,
+  explanation: "A dopo cottura"
+},
+{
+  id: "Cc29",
+  question: "I Cantharellus freschi posti in vendita allo stato sfuso:",
+  options: [
+      "A non devono provenire da Paesi extracomunitar",
+      "B vanno conservati in luoghi caldo-umidi",
+      "C devono essere provvisti di certificazione sanitaria"
+  ],
+  answer: 2,
+  explanation: "C devono essere provvisti di certificazione sanitaria"
+},
+{
+  id: "Cr1",
+  question: " Il Craterellus cornucopioides è:",
+  options: [
+      "A simile ai Cantharellus bruno-nerastri",
+      "B tutto giallo",
+      "C una specie coltivata"
+  ],
+  answer: 0,
+  explanation: "A simile ai Cantharellus bruno-nerastri"
+},
+{
+  id: "Cr2",
+  question: " Il Craterellus cornucopioides:",
+  options: [
+      "A non è un fungo",
+      "B è molto carnoso",
+      "C non è carnoso"
+  ],
+  answer: 2,
+  explanation: "C non è carnoso"
+},
+{
+  id: "Cr3",
+  question: " Il più comune nome volgare del Craterellus cornucopioides è:",
+  options: [
+      "A trombetta da morto",
+      "B corno dei crateri",
+      "C fungo buono a corno"
+  ],
+  answer: 0,
+  explanation: "A trombetta da morto"
+},
+{
+  id: "Cr4",
+  question: " Il Craterellus cornucupioides è di tipico colore:",
+  options: [
+      "A verdastro",
+      "B biancastro",
+      "C bruno nerastro"
+  ],
+  answer: 2,
+  explanation: "C bruno nerastro"
+},
+{
+  id: "Cr5",
+  question: " Il Craterellus cornucupioides ha la forma di:",
+  options: [
+      "A spugna",
+      "B tromba",
+      "C clava"
+  ],
+  answer: 1,
+  explanation: "B tromba"
+},
+{
+  id: "Cr6",
+  question: " Il Craterellus cornucupioides:",
+  options: [
+      "A non ha ne anello ne volva",
+      "B possiede due piccoli anelli",
+      "C è simile alle piccole Armillaria"
+  ],
+  answer: 0,
+  explanation: "A non ha ne anello ne volva"
+},
+{
+  id: "Cr7",
+  question: " Il Craterellus cornucupioides è una specie fungina:",
+  options: [
+      "A giapponese",
+      "B commercializzabile",
+      "C ricca di vitamine"
+  ],
+  answer: 1,
+  explanation: "B commercializzabile"
+},
+{
+  id: "Cr8",
+  question: " Il Craterellus cornucupioides:",
+  options: [
+      "A cresce spontaneo nei boschi",
+      "B viene coltivato",
+      "C cresce solo nei paesi orientali"
+  ],
+  answer: 0,
+  explanation: "A cresce spontaneo nei boschi"
+},
+{
+  id: "Cr9",
+  question: " Il Craterellus cornucupioides:",
+  options: [
+      "A in Italia viene coltivato solo nelle valli bergamasche",
+      "B ha un bel colore biancastro",
+      "C si può essiccare"
+  ],
+  answer: 2,
+  explanation: "C si può essiccare"
+},
+{
+  id: "Cr10",
+  question: ". Il Craterellus cornucupioides si può facilmente confondere con:",
+  options: [
+      "A I Boleti",
+      "B Le Amanita",
+      "C alcuni Cantharellus"
+  ],
+  answer: 2,
+  explanation: "C alcuni Cantharellus"
+},
+{
+  id: "Cr11",
+  question: ". Del Craterelllus cornucupioides si consuma:",
+  options: [
+      "A il solo cappello",
+      "B il solo gambo",
+      "C l’intero carpoforo"
+  ],
+  answer: 2,
+  explanation: "C l’intero carpoforo"
+},
+{
+  id: "Cr12",
+  question: " Il Craterellus cornucupioides ha un odore:",
+  options: [
+      "A fruttato",
+      "B anicino",
+      "C di arancio"
+  ],
+  answer: 0,
+  explanation: "A fruttato"
+},
+{
+  id: "Cr13",
+  question: ". Il Craterellus cornucupioides ha il gambo:",
+  options: [
+      "A carnoso",
+      "B del tutto cavo",
+      "C ingrossato alla base"
+  ],
+  answer: 1,
+  explanation: "B del tutto cavo"
+},
+{
+  id: "Cr14",
+  question: ". Il Craterellus cornucupioides:",
+  options: [
+      "A si può confondere facilmente con specie tossiche",
+      "B non ha le lamelle",
+      "C possiede proprietà allucinogene"
+  ],
+  answer: 1,
+  explanation: "B non ha le lamelle"
+},
+{
+  id: "Cr15",
+  question: ". Il Craterellus cornucupioides è un fungo:",
+  options: [
+      "A molto grande",
+      "B piccolissimo",
+      "C di media taglia"
+  ],
+  answer: 2,
+  explanation: "C di media taglia"
+},
+{
+  id: "Cr16",
+  question: ". La cosiddetta “trombetta da morto”:",
+  options: [
+      "A non è un fungo ma un lichene",
+      "B è un Craterellus mortale",
+      "C è il Carterellus cornucupioides"
+  ],
+  answer: 2,
+  explanation: "C è il Carterellus cornucupioides"
+},
+{
+  id: "Cr17",
+  question: ". Il Craterellus cornucupioides:",
+  options: [
+      "A può diventare pericoloso se essiccato",
+      "B è un buon commestibile",
+      "C non si può congelare"
+  ],
+  answer: 1,
+  explanation: "B è un buon commestibile"
+},
+{
+  id: "Cr18",
+  question: ". Il Craterellus cornucupioides è:",
+  options: [
+      "A tipico delle steppe",
+      "B può crescere anche nei deserti artici",
+      "C si può commercializzare anche essiccato"
+  ],
+  answer: 2,
+  explanation: "C si può commercializzare anche essiccato"
+},
+{
+  id: "Cr19",
+  question: ". Del Craterellus cornucupioides si consuma:",
+  options: [
+      "A solo il gambo privato dell’anello",
+      "B il solo cappello",
+      "C l’intero carpoforo"
+  ],
+  answer: 2,
+  explanation: "C l’intero carpoforo"
+},
+{
+  id: "Cr20",
+  question: ". Il Craterellus cornucupioides diventa tossico:",
+  options: [
+      "A se è alterato",
+      "B se è stato essiccato",
+      "C se ha dei puntini bianchi sul cappello verde"
+  ],
+  answer: 0,
+  explanation: "A se è alterato"
+},
+{
+  id: "Hr1",
+  question: " L’Hydnum repandum:",
+  options: [
+      "A non è un fungo",
+      "B viene coltivato",
+      "C si può commercializzare"
+  ],
+  answer: 2,
+  explanation: "C si può commercializzare"
+},
+{
+  id: "Hr2",
+  question: " L’Hydnum repandum sotto il cappello ha:",
+  options: [
+      "A i tubuli rotondi",
+      "B le lamelle gialle",
+      "C gli aculei"
+  ],
+  answer: 2,
+  explanation: "C gli aculei"
+},
+{
+  id: "Hr3",
+  question: " L’Hydnum repandum ha:",
+  options: [
+      "A l’anello",
+      "B il gambo ingrossato alla base",
+      "C gli aculei"
+  ],
+  answer: 2,
+  explanation: "C gli aculei"
+},
+{
+  id: "Hr4",
+  question: " L’Hydnum repandum ha gambo e cappello di colore:",
+  options: [
+      "A giallastro",
+      "B verdognolo",
+      "C marrone scuro"
+  ],
+  answer: 0,
+  explanation: "A giallastro"
+},
+{
+  id: "Hr5",
+  question: " L’Hydnum repandum è un fungo che ha:",
+  options: [
+      "A l'anello e la volva",
+      "B la carne bianca",
+      "C le lamelle e la volva"
+  ],
+  answer: 1,
+  explanation: "B la carne bianca"
+},
+{
+  id: "Hr6",
+  question: " Dei funghi che hanno l’imenio composto da aculei:",
+  options: [
+      "A fanno parte anche i piccoli Boleti",
+      "B fa parte anche l’Hydnum repandum",
+      "C fanno parte tutte specie tossiche"
+  ],
+  answer: 1,
+  explanation: "B fa parte anche l’Hydnum repandum"
+},
+{
+  id: "Hr7",
+  question: " L’Hydnum repandum:",
+  options: [
+      "A viene normalmente coltivato",
+      "B non si può consumare",
+      "C si può vendere"
+  ],
+  answer: 2,
+  explanation: "C si può vendere"
+},
+{
+  id: "Hr8",
+  question: " Hydnum repandum è di tipico colore:",
+  options: [
+      "A giallastro",
+      "B verde olivastro",
+      "C bruno nerastro"
+  ],
+  answer: 0,
+  explanation: "A giallastro"
+},
+{
+  id: "Hr9",
+  question: " L’Hydnum repandum:",
+  options: [
+      "A non ha il cappello",
+      "B non ha gli aculei sotto il cappello",
+      "C ha gli aculei ma non ha anello ne volva"
+  ],
+  answer: 2,
+  explanation: "C ha gli aculei ma non ha anello ne volva"
+},
+{
+  id: "Hr10",
+  question: ". Hydnum repandum ha la carne:",
+  options: [
+      "A nerastra",
+      "B bianca",
+      "C virante al rosa"
+  ],
+  answer: 1,
+  explanation: "B bianca"
+},
+{
+  id: "Hr11",
+  question: ". Hydnum repandum ha un sapore:",
+  options: [
+      "A leggermente amaro",
+      "B molto dolce",
+      "C pressoché nullo"
+  ],
+  answer: 0,
+  explanation: "A leggermente amaro"
+},
+{
+  id: "Hr12",
+  question: ". Hydnum repandum:",
+  options: [
+      "A si può consumare dopo cottura",
+      "B non è una specie mangereccia",
+      "C è una specie leggermente tossica dopo cottura"
+  ],
+  answer: 0,
+  explanation: "A si può consumare dopo cottura"
+},
+{
+  id: "Hr13",
+  question: ". L’Hydnum repandum si deve consumare:",
+  options: [
+      "A assieme ad altri funghi",
+      "B crudo in insalata amara",
+      "C solo se sano e ben conservato"
+  ],
+  answer: 2,
+  explanation: "C solo se sano e ben conservato"
+},
+{
+  id: "Hr14",
+  question: ". L’Hydnum repandum:",
+  options: [
+      "A non ha il cappello",
+      "B ha una evidente volva",
+      "C ha gli aculei"
+  ],
+  answer: 2,
+  explanation: "C ha gli aculei"
+},
+{
+  id: "Hr15",
+  question: ". Per vendere l’Hydnum repandum al consumatore finale:",
+  options: [
+      "A serve un’apposita licenza ministeriale",
+      "B è necessario che sia certificato",
+      "C non serve nulla"
+  ],
+  answer: 1,
+  explanation: "B è necessario che sia certificato"
+},
+{
+  id: "Hr16",
+  question: ". L’Hydnum repandum è volgarmente chiamato:",
+  options: [
+      "A stecherino dorato",
+      "B stecherino bruno",
+      "C stecchino dei camosci"
+  ],
+  answer: 0,
+  explanation: "A stecherino dorato"
+},
+{
+  id: "Hr17",
+  question: ". Lo “stecherino dorato” è il nome volgare di:",
+  options: [
+      "A Russula aurata",
+      "B Amanita caesarea",
+      "C Hydnum repandum"
+  ],
+  answer: 2,
+  explanation: "C Hydnum repandum"
+},
+{
+  id: "Mp1",
+  question: " La Macrolepiota procera ha la forma di:",
+  options: [
+      "A una mazza da tamburo nello primo stadio di crescita",
+      "B un piccolo tamburo napoletano",
+      "C una tromba"
+  ],
+  answer: 0,
+  explanation: "A una mazza da tamburo nello primo stadio di crescita"
+},
+{
+  id: "Mp2",
+  question: " La Macrolepiota procera:",
+  options: [
+      "A ha un anello mobile sul gambo",
+      "B non ha l’anello ma la volva",
+      "C ha la carne amara"
+  ],
+  answer: 0,
+  explanation: "A ha un anello mobile sul gambo"
+},
+{
+  id: "Mp3",
+  question: " La Macrolepiota procera è un fungo:",
+  options: [
+      "A di taglia media",
+      "B di taglia piccola",
+      "C di grande taglia"
+  ],
+  answer: 2,
+  explanation: "C di grande taglia"
+},
+{
+  id: "Mp4",
+  question: " La Macrolepiota procera",
+  options: [
+      "A si può facilmente confondere con le piccole Amanita",
+      "B è difficilmente confondibile per via della taglia",
+      "C è cespitosa come l’Armillaria mellea"
+  ],
+  answer: 1,
+  explanation: "B è difficilmente confondibile per via della taglia"
+},
+{
+  id: "Mp5",
+  question: " Macrolepiota procera ha il cappello",
+  options: [
+      "A ricoperto di squame",
+      "B liscio",
+      "C molto ondulato"
+  ],
+  answer: 0,
+  explanation: "A ricoperto di squame"
+},
+{
+  id: "Mp6",
+  question: " La Macrolepiota procera ha le lamelle:",
+  options: [
+      "A bruno nerastre",
+      "B molto rade",
+      "C bianche e fitte"
+  ],
+  answer: 2,
+  explanation: "C bianche e fitte"
+},
+{
+  id: "Mp7",
+  question: " Il più diffuso nome volgare di Macrolepiota procera è:",
+  options: [
+      "A fungo della suocera",
+      "B mazza di tamburo o ombrellone",
+      "C mazza di ercole"
+  ],
+  answer: 1,
+  explanation: "B mazza di tamburo o ombrellone"
+},
+{
+  id: "Mp8",
+  question: " Macrolepiota procera si può confondere con:",
+  options: [
+      "A le altre Macrolepiota",
+      "B le Amanita mortali",
+      "C le Russula giganti"
+  ],
+  answer: 0,
+  explanation: "A le altre Macrolepiota"
+},
+{
+  id: "Mp9",
+  question: " Della Macrolepiota procera si consuma",
+  options: [
+      "A il solo gambo privato dell’anello",
+      "B il solo cappello privato del gambo",
+      "C la parte del gambo sotto l’anello"
+  ],
+  answer: 1,
+  explanation: "B il solo cappello privato del gambo"
+},
+{
+  id: "Mp10",
+  question: " Le Macrolepiota sono:",
+  options: [
+      "A prevalentemente non commestibili",
+      "B in gran parte tossiche",
+      "C delle Lepiota di grossa taglia"
+  ],
+  answer: 2,
+  explanation: "C delle Lepiota di grossa taglia"
+},
+{
+  id: "Mp11",
+  question: ". La Macrolepiota procera ha la carne:",
+  options: [
+      "A rossastra",
+      "B bianca",
+      "C gialla"
+  ],
+  answer: 1,
+  explanation: "B bianca"
+},
+{
+  id: "Mp12",
+  question: ". La Macrolepiota procera:",
+  options: [
+      "A non si consuma cruda",
+      "B va cotta solo a vapore",
+      "C va fatta bollire per 30 minuti prima di cucinarla"
+  ],
+  answer: 0,
+  explanation: "A non si consuma cruda"
+},
+{
+  id: "Mp13",
+  question: ". Della Macrolepiota procera si utilizza:",
+  options: [
+      "A la parte bulbosa del gambo come decotto",
+      "B l’estratto secco delle lamelle con funzione stimolante",
+      "C il cappello generalmente panato"
+  ],
+  answer: 2,
+  explanation: "C il cappello generalmente panato"
+},
+{
+  id: "Mp14",
+  question: "La Macrolepiota procera ha il gambo:",
+  options: [
+      "A tenero e carnoso",
+      "B non commestibile",
+      "C sempre molto liscio"
+  ],
+  answer: 1,
+  explanation: "B non commestibile"
+},
+{
+  id: "Mp15",
+  question: ". La Macrolepiota procera:",
+  options: [
+      "A non si può commercializzare se non da giovane",
+      "B cresce sulle piante di alto fusto",
+      "C è un fungo di grossa taglia con anello e lamelle bianche molto fitte"
+  ],
+  answer: 2,
+  explanation: "C è un fungo di grossa taglia con anello e lamelle bianche molto fitte"
+},
+{
+  id: "Mp16",
+  question: ". La Macrolepiota procera ha:",
+  options: [
+      "A un gambo con anello ed un cappello con lamelle bianche molto fitte",
+      "B non ha anello ma ha le lamelle rossastre a tempo umido",
+      "C è un fungo di piccola taglia con anello e lamelle crema molto rade"
+  ],
+  answer: 0,
+  explanation: "A un gambo con anello ed un cappello con lamelle bianche molto fitte"
+},
+{
+  id: "Mp17",
+  question: ". La Macrolepiota procera si distingue dalle Amanita mortali:",
+  options: [
+      "A perché non ha i puntini bianchi sul cappello",
+      "B perché è di grossa taglia e non ha la volva",
+      "C perchè ha la volva che è nerastra e non ha l’anello"
+  ],
+  answer: 1,
+  explanation: "B perché è di grossa taglia e non ha la volva"
+},
+{
+  id: "Mp18",
+  question: ". La Macrolepiota procera si può confondere:",
+  options: [
+      "A con i Boleti del gruppo del satanas",
+      "B con Le Lepiota commestibili",
+      "C difficilmente con altre specie per via della taglia"
+  ],
+  answer: 2,
+  explanation: "C difficilmente con altre specie per via della taglia"
+},
+{
+  id: "Mp19",
+  question: ". La Macrolepiota procera:",
+  options: [
+      "A può risultare tossica se è alterata",
+      "B è commestibile in tutte le sue parti",
+      "C va consumata solo da giovane e da cruda"
+  ],
+  answer: 0,
+  explanation: "A può risultare tossica se è alterata"
+},
+{
+  id: "Mp20",
+  question: ". La cosiddetta “mazza di tamburo”:",
+  options: [
+      "A è una specie americana",
+      "B è la Lepiota cristata",
+      "C è la Macrolepiota procera"
+  ],
+  answer: 2,
+  explanation: "C è la Macrolepiota procera"
+},
+{
+  id: "RL1",
+  question: " I funghi del genere Lactarius e Russula:",
+  options: [
+      "A hanno la carne a consistenza fibrosa",
+      "B sono tutti commestibili",
+      "C hanno la carne a consistenza gessosa"
+  ],
+  answer: 2,
+  explanation: "C hanno la carne a consistenza gessosa"
+},
+{
+  id: "RL2",
+  question: " I funghi del genere Lactarius e Russula hanno:",
+  options: [
+      "A l’anello mobile",
+      "B le lamelle rosa",
+      "C la carne a consistenza gessosa"
+  ],
+  answer: 2,
+  explanation: "C la carne a consistenza gessosa"
+},
+{
+  id: "RL3",
+  question: " I funghi del genere Lactarius e Russula",
+  options: [
+      "A non hanno né anello né volva",
+      "B hanno i tubuli bianchi",
+      "C hanno tutti la carne piccante"
+  ],
+  answer: 0,
+  explanation: "A non hanno né anello né volva"
+},
+{
+  id: "RL4",
+  question: " I funghi del genere Lactarius:",
+  options: [
+      "A hanno il gambo a forma di mammella che secerne latice al tocco",
+      "B secernano latice soprattutto alla frattura delle lamelle",
+      "C non presentano mai colorazioni di tonalità rossastra"
+  ],
+  answer: 1,
+  explanation: "B secernano latice soprattutto alla frattura delle lamelle"
+},
+{
+  id: "RL5",
+  question: " I funghi del genere Lactarius:",
+  options: [
+      "A sono tutti commestibili",
+      "B sono in gran parte coltivati",
+      "C comprendono anche specie commercializzabili"
+  ],
+  answer: 2,
+  explanation: "C comprendono anche specie commercializzabili"
+},
+{
+  id: "RL6",
+  question: "6. I funghi del genere Lactarius commestibilii",
+  options: [
+      "A anno il latice color carota o sangue",
+      "B hanno le lamelle rossastre",
+      "C sono tutti bianchi"
+  ],
+  answer: 0,
+  explanation: "A anno il latice color carota o sangue"
+},
+{
+  id: "RL7",
+  question: " I funghi commestibili del genere Lactarius:",
+  options: [
+      "A si devono consumare solo crudi in insalata",
+      "B devono essere sani e ben conservati",
+      "C si devono essiccare e ridurre in polvere"
+  ],
+  answer: 1,
+  explanation: "B devono essere sani e ben conservati"
+},
+{
+  id: "RL8",
+  question: " I funghi commestibili del genere Lactarius:",
+  options: [
+      "A hanno il latice piccante",
+      "B hanno il latice di sapore mite",
+      "C hanno la carne amarognola"
+  ],
+  answer: 1,
+  explanation: "B hanno il latice di sapore mite"
+},
+{
+  id: "RL9",
+  question: " I funghi del genere Russula:",
+  options: [
+      "A sono tutti di colore rossastro",
+      "B provengono da coltivazioni specifiche",
+      "C comprendono alcune specie commercializzabili"
+  ],
+  answer: 2,
+  explanation: "C comprendono alcune specie commercializzabili"
+},
+{
+  id: "RL10",
+  question: ". Le specie di Russula commestibili hanno:",
+  options: [
+      "A la carne di sapore mite",
+      "B le lamelle gialle o rosate",
+      "C la carne fibrosa"
+  ],
+  answer: 1,
+  explanation: "A la carne di sapore mite"
+},
+{
+  id: "RL11",
+  question: ". Fra le Russula commestibili vi è:",
+  options: [
+      "A Russula cyanoxantha",
+      "B Russula foetens",
+      "C Russula emetica"
+  ],
+  answer: 0,
+  explanation: "A Russula cyanoxantha"
+},
+{
+  id: "RL12",
+  question: ". Russula cyanoxantha:",
+  options: [
+      "A ha la volva ma non ha l’anello",
+      "B è una specie commestibile",
+      "C ha il gambo ricoperto di squame"
+  ],
+  answer: 1,
+  explanation: "B è una specie commestibile"
+},
+{
+  id: "RL13",
+  question: ". Russula virescens:",
+  options: [
+      "A è tossica",
+      "B è una specie commestibile",
+      "C non esiste"
+  ],
+  answer: 1,
+  explanation: "B è una specie commestibile"
+},
+{
+  id: "RL14",
+  question: ". Le specie fungine che appartengono al genere Russula:",
+  options: [
+      "A sono tutte commestibili",
+      "B comprendono anche specie tossiche",
+      "C sono da evitare se di colore verde"
+  ],
+  answer: 1,
+  explanation: "B comprendono anche specie tossiche"
+},
+{
+  id: "RL15",
+  question: ". Il più comune Lactarius commestibile è il:",
+  options: [
+      "A Lactarius deterrimus",
+      "B Lactarius vinosus",
+      "C Lactarius deliciosus"
+  ],
+  answer: 2,
+  explanation: "C Lactarius deliciosus"
+},
+{
+  id: "RL16",
+  question: ".Russula cyanoxantha presenta:",
+  options: [
+      "A lamelle gialle fragili",
+      "B lamelle bianche lardacee al tatto",
+      "C lamelle bianche fragili"
+  ],
+  answer: 1,
+  explanation: "B lamelle bianche lardacee al tatto"
+},
+{
+  id: "Lg1",
+  question: " I funghi del genere Leccinum e Leccinellum:",
+  options: [
+      "A non esistono in Italia",
+      "B appartengono alla famiglia delle Boletacee",
+      "C hanno gli aculei"
+  ],
+  answer: 1,
+  explanation: "B appartengono alla famiglia delle Boletacee"
+},
+{
+  id: "Lg2",
+  question: " I Leccinum e Leccinellum:",
+  options: [
+      "A sono tutti commercializzabili",
+      "B hanno sempre un odore cimicino",
+      "C hanno delle lamelle larghe"
+  ],
+  answer: 0,
+  explanation: "A sono tutti commercializzabili"
+},
+{
+  id: "Lg3",
+  question: " I Leccinum e Leccinellum:",
+  options: [
+      "A sono funghi misteriosi",
+      "B tranne un’eccezione non hanno mai la carne bianca",
+      "C  hanno dei larghi pori sul cappello"
+  ],
+  answer: 1,
+  explanation: "B tranne un’eccezione non hanno mai la carne bianca"
+},
+{
+  id: "Lg4",
+  question: " I Leccinum e Leccinellum hanno:",
+  options: [
+      "A un persistente anello",
+      "B sovente un forte odore",
+      "C la carne che annerisce in cottura"
+  ],
+  answer: 2,
+  explanation: "C la carne che annerisce in cottura"
+},
+{
+  id: "Lg5",
+  question: " Dei Leccinum e Leccinellum si consuma:",
+  options: [
+      "A l’intero carpoforo",
+      "B il solo cappello",
+      "C il solo gambo"
+  ],
+  answer: 1,
+  explanation: "B il solo cappello"
+},
+{
+  id: "Lg6",
+  question: " Le boletaceae del genere Leccinum e Leccinellum hanno il gambo:",
+  options: [
+      "A molto grosso",
+      "B viscido",
+      "C ricoperto da squamette"
+  ],
+  answer: 2,
+  explanation: "C ricoperto da squamette"
+},
+{
+  id: "Lg7",
+  question: " Le Boletacee del genere Leccinum e Leccinellum hanno:",
+  options: [
+      "A il cappello brunastro",
+      "B il gambo ricoperto da fini squamettature nerastre",
+      "C le lamelle bianche"
+  ],
+  answer: 1,
+  explanation: "B il gambo ricoperto da fini squamettature nerastre"
+},
+{
+  id: "Lg8",
+  question: " Il più comune nome volgare attribuito ai Leccinum e Leccinellum è:",
+  options: [
+      "A porcini neri",
+      "B brunelli di monte",
+      "C porcinelli"
+  ],
+  answer: 2,
+  explanation: "C porcinelli"
+},
+{
+  id: "Lg9",
+  question: " I Leccinum e Leccinellum si consumano:",
+  options: [
+      "A crudi",
+      "B cotti",
+      "C sconditi"
+  ],
+  answer: 1,
+  explanation: "B cotti"
+},
+{
+  id: "Lg10",
+  question: ". I Leccinum e Leccinellum hanno il gambo:",
+  options: [
+      "A generalmente cilindrico",
+      "B molto obeso come i porcini",
+      "C liscio con anello"
+  ],
+  answer: 0,
+  explanation: "A generalmente cilindrico"
+},
+{
+  id: "Lg11",
+  question: ". I Leccinum e Leccinellum si possono confondere:",
+  options: [
+      "A con funghi a lamelle",
+      "B con specie che hanno l’anello",
+      "C con altri funghi a tubuli"
+  ],
+  answer: 2,
+  explanation: "C con altri funghi a tubuli"
+},
+{
+  id: "Lg12",
+  question: ". I Leccinum e Leccinellum:",
+  options: [
+      "A hanno le lamelle da giovani",
+      "B hanno sempre la carne bianca",
+      "C hanno sempre delle squamettature nerastre sul gambo"
+  ],
+  answer: 2,
+  explanation: "C hanno sempre delle squamettature nerastre sul gambo"
+},
+{
+  id: "Lg13",
+  question: ". Il nome volgare di “porcinelli” è attribuito:",
+  options: [
+      "A ai porcini ancora giovani",
+      "B ai boleti del genere Leccinum e Leccinellum",
+      "C a tutte le boletacee immature"
+  ],
+  answer: 1,
+  explanation: "B ai boleti del genere Leccinum e Leccinellum"
+},
+{
+  id: "Lg14",
+  question: ". I Leccinum e Leccinellum sono Boletaceae che si riconoscono principalmente:",
+  options: [
+      "A dalla caratteristica squamettatura del gambo",
+      "B dal particolare tipo di anello",
+      "C dalle lamelle lunghe lamelle nerastre"
+  ],
+  answer: 0,
+  explanation: "A dalla caratteristica squamettatura del gambo"
+},
+{
+  id: "Lg15",
+  question: ". Fra i Leccinum e Leccinellum:",
+  options: [
+      "A non ci sono specie tossiche",
+      "B sono tossici quelli che cambiano colore",
+      "C vi è una specie mortale"
+  ],
+  answer: 0,
+  explanation: "A non ci sono specie tossiche"
+},
+{
+  id: "Lg16",
+  question: " Per riconoscere i Leccinum e Leccinellum:",
+  options: [
+      "A basta guardare sotto il cappello",
+      "B bisogna annusare il gambo e cappello",
+      "C bisogna conoscere bene i caratteri di identificazione"
+  ],
+  answer: 2,
+  explanation: "C bisogna conoscere bene i caratteri di identificazione"
+},
+{
+  id: "Lg17",
+  question: ". I Leccinum e Leccinellum possono risultare tossici:",
+  options: [
+      "A se sono cresciuti vicino al ferro arrugginito",
+      "B se sono in cattivo stato di conservazione",
+      "C se vengono conservati in frigorifero"
+  ],
+  answer: 1,
+  explanation: "B se sono in cattivo stato di conservazione"
+},
+{
+  id: "Sg1",
+  question: " I funghi del genere “Suillus”:",
+  options: [
+      "A non esistono",
+      "B hanno le lamelle",
+      "C hanno i tubuli come le Boletaceae"
+  ],
+  answer: 2,
+  explanation: "C hanno i tubuli come le Boletaceae"
+},
+{
+  id: "Sg2",
+  question: " Le Boletaceae del genere “Suillus” hanno il cappello:",
+  options: [
+      "A quasi del tutto assente",
+      "B vischioso",
+      "C sempre asciutto"
+  ],
+  answer: 1,
+  explanation: "B vischioso"
+},
+{
+  id: "Sg3",
+  question: " I Suillus:",
+  options: [
+      "A non hanno mai l’anello",
+      "B hanno una piccola volva",
+      "C possono avere l’anello"
+  ],
+  answer: 2,
+  explanation: "C possono avere l’anello"
+},
+{
+  id: "Sg4",
+  question: " I Suillus con l’anello sono:",
+  options: [
+      "A tutti commestibili",
+      "B pericolosi perché facilmente confondibili",
+      "C non esistono"
+  ],
+  answer: 0,
+  explanation: "A tutti commestibili"
+},
+{
+  id: "Sg5",
+  question: " I Suillus sotto il cappello hanno:",
+  options: [
+      "A tubuli",
+      "B lamelle",
+      "C aculei"
+  ],
+  answer: 0,
+  explanation: "A tubuli"
+},
+{
+  id: "Sg6",
+  question: " Le specie fungine del genere Suillus:",
+  options: [
+      "A vengono coltivate",
+      "B sono spontanee",
+      "C crescono solo nell’Artico"
+  ],
+  answer: 1,
+  explanation: "B sono spontanee"
+},
+{
+  id: "Sg7",
+  question: " I Suillus appartengono alla famiglia delle:",
+  options: [
+      "A Lycoperdaceae",
+      "B Helvellaceae",
+      "C Boletaceae"
+  ],
+  answer: 2,
+  explanation: "C Boletaceae"
+},
+{
+  id: "Sg8",
+  question: " I Suillus tossici:",
+  options: [
+      "A non esistono",
+      "B hanno colori vivaci",
+      "C hanno il gambo corto"
+  ],
+  answer: 0,
+  explanation: "A non esistono"
+},
+{
+  id: "Sg9",
+  question: " I Suillus:",
+  options: [
+      "A possono avere l’anello",
+      "B hanno il cappello squamato",
+      "C hanno il gambo ingrossato"
+  ],
+  answer: 0,
+  explanation: "A possono avere l’anello"
+},
+{
+  id: "Sg10",
+  question: ". Il cosiddetto “Laricino” è:",
+  options: [
+      "A un fungo a forma di frutto",
+      "B il frutto del larice a forma di fungo",
+      "C un Suillus simbionte del larice"
+  ],
+  answer: 2,
+  explanation: "C un Suillus simbionte del larice"
+},
+{
+  id: "Sg11",
+  question: ". Il cosiddetto “Pinarello o pinarolo” è:",
+  options: [
+      "A un fungo cespitoso lamellato",
+      "B il frutto commestibile dei pini",
+      "C un Suillus simbionte dei pini"
+  ],
+  answer: 2,
+  explanation: "C un Suillus simbionte dei pini"
+},
+{
+  id: "Sg12",
+  question: "2. Il Suillus grevillei ed il Suillus luteus:",
+  options: [
+      "A sono specie commestibili",
+      "B sono suillus tossici",
+      "C crescono sui pini"
+  ],
+  answer: 0,
+  explanation: "A sono specie commestibili"
+},
+{
+  id: "Sg13",
+  question: ". Per il consumo dei Suillus freschi è necessario asportare:",
+  options: [
+      "A i tubuli",
+      "B le lamelle",
+      "C la cuticola del cappello"
+  ],
+  answer: 2,
+  explanation: "C la cuticola del cappello"
+},
+{
+  id: "Sg14",
+  question: ". I Suillus hanno sempre:",
+  options: [
+      "A il gambo grosso e slanciato",
+      "B la carne bianca",
+      "C il cappello vischioso"
+  ],
+  answer: 2,
+  explanation: "C il cappello vischioso"
+},
+{
+  id: "Sg15",
+  question: ". I Suillus si consumano:",
+  options: [
+      "A crudi",
+      "B cotti",
+      "C solo in salamoia"
+  ],
+  answer: 1,
+  explanation: "B cotti"
+},
+{
+  id: "Sg16",
+  question: ". I Suillus possono diventare tossici:",
+  options: [
+      "A quando sono alterati",
+      "B quando non sono stati certificati",
+      "C solo quando sono di importazione"
+  ],
+  answer: 0,
+  explanation: "A quando sono alterati"
+},
+{
+  id: "Sg17",
+  question: ". I Suillus freschi vanno conservati:",
+  options: [
+      "A in luoghi freschi ed aerati",
+      "B chiusi in sacchetti di plastica",
+      "C in luoghi bui"
+  ],
+  answer: 0,
+  explanation: "A in luoghi freschi ed aerati"
+},
+{
+  id: "Sg18",
+  question: ". I Suillus che hanno l’anello:",
+  options: [
+      "A non esistono",
+      "B sono commestibili",
+      "C sono tossici"
+  ],
+  answer: 1,
+  explanation: "B sono commestibili"
+},
+{
+  id: "Sg19",
+  question: ". Dei Suillus si consuma:",
+  options: [
+      "A l’intero carpoforo asportando la cuticola del cappello",
+      "B il gambo asportando l’anello e la volva",
+      "C il solo cappello compresa la sua cuticola"
+  ],
+  answer: 0,
+  explanation: "A l’intero carpoforo asportando la cuticola del cappello"
+},
+{
+  id: "Xb1",
+  question: " Lo Xerocomus è:",
+  options: [
+      "A un fungo con tubuli",
+      "B un fungo a lamelle",
+      "C non è un fungo edule"
+  ],
+  answer: 0,
+  explanation: "A un fungo con tubuli"
+},
+{
+  id: "Xb2",
+  question: " Lo Xerocomus appartiene alla famiglia delle:",
+  options: [
+      "A Ramariaceae",
+      "B Boletaceae",
+      "C Poliporaceae"
+  ],
+  answer: 1,
+  explanation: "B Boletaceae"
+},
+{
+  id: "Xb3",
+  question: " Lo Xerocomus badius ha il cappello:",
+  options: [
+      "A di colore bruno castano",
+      "B squamettato",
+      "C molto vischioso"
+  ],
+  answer: 0,
+  explanation: "A di colore bruno castano"
+},
+{
+  id: "Xb4",
+  question: " Lo Xerocomus badius sotto il cappello:",
+  options: [
+      "A ha delle larghe lamelle",
+      "B ha fini aculei grigiastri",
+      "C ha pori di color giallastro viranti al blu al tocco"
+  ],
+  answer: 2,
+  explanation: "C ha pori di color giallastro viranti al blu al tocco"
+},
+{
+  id: "Xb5",
+  question: " Dello Xerocomus badius non si consuma:",
+  options: [
+      "A il cappello",
+      "B l’imenio",
+      "C il gambo"
+  ],
+  answer: 2,
+  explanation: "C il gambo"
+},
+{
+  id: "Xb6",
+  question: ". Il gambo dello Xerocomus badius è:",
+  options: [
+      "A  bianco e finemente reticolato",
+      "B  di colore baio come il cappello",
+      "C molto gustoso"
+  ],
+  answer: 1,
+  explanation: "B  di colore baio come il cappello"
+},
+{
+  id: "Xb7",
+  question: " Xerocomus badius ha la carne:",
+  options: [
+      "A completamente bianca",
+      "B leggermente virante al blu",
+      "C giallo uovo"
+  ],
+  answer: 1,
+  explanation: "B leggermente virante al blu"
+},
+{
+  id: "Xb8",
+  question: " Xerocomus badius cresce:",
+  options: [
+      "A nei prati e nelle steppe assolate",
+      "B sulle rive sabbiose dei litorali marini",
+      "C nei boschi di aghifoglia e latifoglia"
+  ],
+  answer: 2,
+  explanation: "C nei boschi di aghifoglia e latifoglia"
+},
+{
+  id: "Xb9",
+  question: " Xerocomus si può confondere:",
+  options: [
+      "A con funghi a tubuli",
+      "B un funghi a lamelle",
+      "C con funghi ramificati"
+  ],
+  answer: 0,
+  explanation: "A con funghi a tubuli"
+},
+{
+  id: "Xb10",
+  question: ". Xerocomus :",
+  options: [
+      "A Può parassitare il legno",
+      "B È una specie fungina spontanea",
+      "C Proviene solo da coltivazioni"
+  ],
+  answer: 1,
+  explanation: "B È una specie fungina spontanea"
+},
+{
+  id: "Xb11",
+  question: ". Xerocomus badius è di tipico colore:",
+  options: [
+      "A rosato",
+      "B marrone",
+      "C giallastro"
+  ],
+  answer: 1,
+  explanation: "B marrone"
+},
+{
+  id: "Xb12",
+  question: ". Xerocomus ha l’imenio costituito da:",
+  options: [
+      "A fitte lamelle giallo limone",
+      "B tubuli",
+      "C finissimi aculei di color baio"
+  ],
+  answer: 1,
+  explanation: "B tubuli"
+},
+{
+  id: "Xb13",
+  question: ". Lo Xerocomus si può confondere:",
+  options: [
+      "A con le Amanita",
+      "B Con i Catharellus",
+      "C con altre Boletacee"
+  ],
+  answer: 2,
+  explanation: "C con altre Boletacee"
+},
+{
+  id: "Xb14",
+  question: ". Lo Xerocomus può diventare tossico:",
+  options: [
+      "A se non è stato preventivamente congelato",
+      "B quando le lamelle anneriscono",
+      "C se non viene conservato bene"
+  ],
+  answer: 2,
+  explanation: "C se non viene conservato bene"
+},
+{
+  id: "Xb15",
+  question: ". Degli Xerocomus solitamente si consuma:",
+  options: [
+      "A l’intero fungo",
+      "B il solo gambo",
+      "C il cappello"
+  ],
+  answer: 2,
+  explanation: "C il cappello"
+},
+{
+  id: "Mg1",
+  question: " Le Morchelle:",
+  options: [
+      "A sono funghi con tubuli",
+      "B hanno lunghe lamelle",
+      "C sono funghi commestibili"
+  ],
+  answer: 2,
+  explanation: "C sono funghi commestibili"
+},
+{
+  id: "Mg2",
+  question: " Le Morchelle hanno:",
+  options: [
+      "A un evidente anello",
+      "B una pronunciata volva",
+      "C un cappello molto alveolato"
+  ],
+  answer: 2,
+  explanation: "C un cappello molto alveolato"
+},
+{
+  id: "Mg3",
+  question: " Le Morchelle si devono consumare:",
+  options: [
+      "A solo dopo prolungata cottura",
+      "B anche crude",
+      "C solo essiccate"
+  ],
+  answer: 0,
+  explanation: "A solo dopo prolungata cottura"
+},
+{
+  id: "Mg4",
+  question: " Le Morchelle hanno tutte:",
+  options: [
+      "A gambo sodo",
+      "B una colorazione biancastra",
+      "C un cappello che si chiama mitra"
+  ],
+  answer: 2,
+  explanation: "C un cappello che si chiama mitra"
+},
+{
+  id: "Mg5",
+  question: " Le Morchelle sono:",
+  options: [
+      "A tutte commestibili dopo cottura",
+      "B funghi coltivati",
+      "C specie che non appartengono al regno dei funghi"
+  ],
+  answer: 0,
+  explanation: "A tutte commestibili dopo cottura"
+},
+{
+  id: "Mg6",
+  question: " Le Morchelle fresche sono tipiche:",
+  options: [
+      "A dell’autunno",
+      "B dell’estate",
+      "C della primavera"
+  ],
+  answer: 2,
+  explanation: "C della primavera"
+},
+{
+  id: "Mg7",
+  question: " Le Morchelle sono:",
+  options: [
+      "A molto carnose",
+      "B internamente cave",
+      "C molto pesanti"
+  ],
+  answer: 1,
+  explanation: "B internamente cave"
+},
+{
+  id: "Mg8",
+  question: " La principale caratteristica delle Morchelle è rappresentata:",
+  options: [
+      "A dalla forma del cappello",
+      "B dalla lunghezza del gambo",
+      "C dal rapporto peso altezza"
+  ],
+  answer: 0,
+  explanation: "A dalla forma del cappello"
+},
+{
+  id: "Mg9",
+  question: " Le Morchelle si possono confondere:",
+  options: [
+      "A molto difficilmente con altri funghi",
+      "B molto facilmente con i Boleti",
+      "C con i funghi lamellati"
+  ],
+  answer: 0,
+  explanation: "A molto difficilmente con altri funghi"
+},
+{
+  id: "Mg10",
+  question: ". Le Morchelle hanno il gambo:",
+  options: [
+      "A carnoso",
+      "B vuoto",
+      "C pressoché inesistente"
+  ],
+  answer: 1,
+  explanation: "B vuoto"
+},
+{
+  id: "Mg11",
+  question: ". Le Morchelle sono comunemente note con il nome volgare di:",
+  options: [
+      "A fungo dei monaci",
+      "B spagnolette",
+      "C spugnole"
+  ],
+  answer: 2,
+  explanation: "C spugnole"
+},
+{
+  id: "Mg12",
+  question: ". Le Morchelle:",
+  options: [
+      "A sono tutte coltivate",
+      "B crescono principalmente in primavera",
+      "C sono tipici funghi dell’inverno"
+  ],
+  answer: 1,
+  explanation: "B crescono principalmente in primavera"
+},
+{
+  id: "Mg13",
+  question: ". Le Morchelle possono risultare tossiche:",
+  options: [
+      "A se provengono da importazioni extra comunitarie",
+      "B se sono cresciute in prossimità di funghi velenosi",
+      "C se non sono state adeguatamente cotte"
+  ],
+  answer: 2,
+  explanation: "C se non sono state adeguatamente cotte"
+},
+{
+  id: "Mg14",
+  question: ". Al genere Morchella appartengono funghi:",
+  options: [
+      "A con cappello a mitra, alveolato",
+      "B con anello persistente e volva",
+      "C anche tossici"
+  ],
+  answer: 0,
+  explanation: "A con cappello a mitra, alveolato"
+},
+{
+  id: "Mg15",
+  question: ". Tutte le Morchelle:",
+  options: [
+      "A sono cave con il cappello diversamente alveolato",
+      "B hanno fini squame biancastre sul cappello",
+      "C si possono consumare crude"
+  ],
+  answer: 0,
+  explanation: "A sono cave con il cappello diversamente alveolato"
+},
+{
+  id: "Mg16",
+  question: ". Le Morchelle fresche si conservano:",
+  options: [
+      "A in barattoli al buio anche per un mese",
+      "B in luoghi freschi ed aerati per alcuni giorni",
+      "C in sacchetti di plastica con il sale ed il pepe",
+      "31"
+  ],
+  answer: 1,
+  explanation: "B in luoghi freschi ed aerati per alcuni giorni"
+},
+{
+  id: "Mo1",
+  question: " Il Marasmius oreades:",
+  options: [
+      "A non è un fungo ma un lichene",
+      "B ha le lamelle bianche e rade",
+      "C ha tubuli"
+  ],
+  answer: 1,
+  explanation: "B ha le lamelle bianche e rade"
+},
+{
+  id: "Mo2",
+  question: " Marasmius oreades ha il gambo:",
+  options: [
+      "A molto carnoso",
+      "B cilindrico e molto tenace senza veli",
+      "C fortemente ingrossato alla base"
+  ],
+  answer: 1,
+  explanation: "B cilindrico e molto tenace senza veli"
+},
+{
+  id: "Mo3",
+  question: " Marasmius oreades è un fungo:",
+  options: [
+      "A poco carnoso",
+      "B molto carnoso",
+      "C con colori molto vivaci"
+  ],
+  answer: 0,
+  explanation: "A poco carnoso"
+},
+{
+  id: "Mo4",
+  question: " Marasmius oreades ha il cappello di colore:",
+  options: [
+      "A nocciola, crosta di pane",
+      "B verdognolo a tempo umido",
+      "C bruno nerastro"
+  ],
+  answer: 0,
+  explanation: "A nocciola, crosta di pane"
+},
+{
+  id: "Mo5",
+  question: "Il Marasmius oreades:",
+  options: [
+      "A ha i tubuli sotto il cappello",
+      "B ha il gambo molto tenace",
+      "C ha l’anello e la volva"
+  ],
+  answer: 1,
+  explanation: "B ha il gambo molto tenace"
+},
+{
+  id: "Mo6",
+  question: " Marasmius oreades presenta:",
+  options: [
+      "A un evidente anello mobile sul gambo",
+      "B lamelle rosate molto fitte",
+      "C lamelle biancastre e spaziate"
+  ],
+  answer: 2,
+  explanation: "C lamelle biancastre e spaziate"
+},
+{
+  id: "Mo7",
+  question: " Il più comune nome volgare di Marasmius oreades è:",
+  options: [
+      "A gambalunga",
+      "B gambacorta",
+      "C gambasecca"
+  ],
+  answer: 2,
+  explanation: "C gambasecca"
+},
+{
+  id: "Mo8",
+  question: " Marasmius oreades cresce:",
+  options: [
+      "A su piante vive",
+      "B su ceppaie morte",
+      "C sui prati o lungo i sentieri"
+  ],
+  answer: 2,
+  explanation: "C sui prati o lungo i sentieri"
+},
+{
+  id: "Mo9",
+  question: " Il Marasmius oreades:",
+  options: [
+      "A viene normalmente coltivato",
+      "B cresce spontaneo nei prati",
+      "C viene normalmente importato dalla Cina"
+  ],
+  answer: 1,
+  explanation: "B cresce spontaneo nei prati"
+},
+{
+  id: "Mo10",
+  question: ". Del Marasmius oreades si consuma:",
+  options: [
+      "A il gambo",
+      "B l’intero carpoforo",
+      "C il solo cappello"
+  ],
+  answer: 2,
+  explanation: "C il solo cappello"
+},
+{
+  id: "Mo11",
+  question: ". Marasmius oreades si può confondere:",
+  options: [
+      "A con funghi analoghi che crescono nei prati",
+      "B con le Amanita",
+      "C con le Macrolepiota"
+  ],
+  answer: 0,
+  explanation: "A con funghi analoghi che crescono nei prati"
+},
+{
+  id: "Mo12",
+  question: ". Marasmius oreades si distingue dalle specie confondibili perché:",
+  options: [
+      "A secerne latice di colore violetto chiaro",
+      "B ha un gambo molto tenace che non si rompe alla pressione delle dita",
+      "C ha la volva e l’anello"
+  ],
+  answer: 1,
+  explanation: "B ha un gambo molto tenace che non si rompe alla pressione delle dita"
+},
+{
+  id: "Mo13",
+  question: ". Marasmius oreades ha un odore:",
+  options: [
+      "A di uova fritte",
+      "B di anice",
+      "C gradevole"
+  ],
+  answer: 2,
+  explanation: "C gradevole"
+},
+{
+  id: "Mo14",
+  question: ". Marasmius oreades ha la carne:",
+  options: [
+      "A nerastra",
+      "B biancastra",
+      "C verdognola"
+  ],
+  answer: 1,
+  explanation: "B biancastra"
+},
+{
+  id: "Mo15",
+  question: ". Marasmius oreades si conserva:",
+  options: [
+      "A molto bene da essiccato",
+      "B solo in congelatore",
+      "C in sacchetti di iuta"
+  ],
+  answer: 0,
+  explanation: "A molto bene da essiccato"
+},
+{
+  id: "Mo16",
+  question: ". “Gambesecche” è il nome volgare attribuito a:",
+  options: [
+      "A Marasmius scorodonius",
+      "B Marasmius perforans",
+      "C Marasmius oreades"
+  ],
+  answer: 2,
+  explanation: "C Marasmius oreades"
+},
+{
+  id: "Au1",
+  question: "Auricularia auricola-judae ha:",
+  options: [
+      "A carpoforo a forma di lampadina",
+      "B carpoforo a forma di coppa rovesciata",
+      "C carpoforo di forma sferica"
+  ],
+  answer: 1,
+  explanation: "B carpoforo a forma di coppa rovesciata"
+},
+{
+  id: "Ca1",
+  question: "Calocybe gambosa(=Tricholoma georgii)si caratterizza per:",
+  options: [
+      "A lamelle fitte biancastre, carne bianca con intenso odore e sapore di farina, crescita primaverile",
+      "B lamelle spesse e spaziate gialle poi rosa, carne biancastra con odore di farina, crescita autunnale",
+      "C  lamelle fitte gialline, odore terroso, crescita invernale"
+  ],
+  answer: 0,
+  explanation: "A lamelle fitte biancastre, carne bianca con intenso odore e sapore di farina, crescita primaverile"
+},
+{
+  id: "Ca2",
+  question: "Calocybe gambosa(=Tricholoma georgii) è un fungo che:",
+  options: [
+      "A  cresce in primavera, ha odore di farina, lamelle fitte e sporata bianca",
+      "B cresce in estate, ha odore di farina, lamelle fitte e sporata bianca",
+      "C cresce in autunno, ha odore di farina, lamelle fitte e sporata bianca"
+  ],
+  answer: 0,
+  explanation: "A cresce in primavera, ha odore di farina, lamelle fitte e sporata bianca"
+},
+{
+  id: "Ca3",
+  question: "Calocybe gambosa(=Tricholoma georgii) ha odore di:",
+  options: [
+      "A farina",
+      "B pesce",
+      "C pepe"
+  ],
+  answer: 0,
+  explanation: "A farina"
+},
+{
+  id: "Ca4",
+  question: "Calocybe gambosa(=Tricholoma georgii) ha crescita :",
+  options: [
+      "A praticola ma anche nei boschi",
+      "B in zone retrodunali",
+      "C lignicola"
+  ],
+  answer: 0,
+  explanation: "A praticola ma anche nei boschi"
+},
+{
+  id: "Ag1",
+  question: "Agaricus arvensis:",
+  options: [
+      "A è un prataiolo tossico",
+      "B è un prataiolo commestibile",
+      "C  è un prataiolo non commestibile"
+  ],
+  answer: 1,
+  explanation: "B è un prataiolo commestibile"
+},
+{
+  id: "Ag2",
+  question: "Agaricus arvensis si caratterizza per:",
+  options: [
+      "A  cappello bianco che diventa giallo alla minima pressione, anello a doppio strato a ruota dentata, odore gradevole di anice",
+      "B  base del gambo tagliata vira velocemente al giallo, odore sgradevole di inchiostro",
+      "C  carne bianca tendente al rosso al taglio, odore fungino"
+  ],
+  answer: 0,
+  explanation: "A  cappello bianco che diventa giallo alla minima pressione, anello a doppio strato a ruota dentata, odore gradevole di anice"
+},
+{
+  id: "Ag3",
+  question: "Agaricus bitorquis:",
+  options: [
+      "A ha gambo bianco con un anello doppio",
+      "B ha gambo bianco con un anello doppio",
+      "C ha gambo bianco con anello semplice"
+  ],
+  answer: 0,
+  explanation: "A ha gambo bianco con un anello doppio"
+},
+{
+  id: "Ag4",
+  question: "Agaricus campestris",
+  options: [
+      "A ha lamelle rosa e anello semplice",
+      "B ha lamelle bianche e anello semplice",
+      "C ha lamelle bianche senza anello"
+  ],
+  answer: 0,
+  explanation: "A ha lamelle rosa e anello semplice"
+},
+{
+  id: "Ag5",
+  question: "Agaricus crocodilinus(=Agaricus macrosporus):",
+  options: [
+      "A ha odore gradevole di mandorle amare-anisato o come di urina nel fungo maturo",
+      "B ha odore sgradevole di inchiostro",
+      "C non ha odore"
+  ],
+  answer: 0,
+  explanation: "A ha odore gradevole di mandorle amare-anisato o come di urina nel fungo maturo"
+},
+{
+  id: "Bu1",
+  question: ".Butyriboletus regius (=Boletus regius):",
+  options: [
+      "A gambo giallo con fine reticolo giallo",
+      "B gambo giallo senza reticolo",
+      "C gambo bianco con reticolo bianco"
+  ],
+  answer: 0,
+  explanation: "A gambo giallo con fine reticolo giallo"
+},
+{
+  id: "Cu1",
+  question: "Cuphophyllus pratensis (=Camarophyllus pratensis) è un fungo che:",
+  options: [
+      "A cresce nei prati, il cappello è color albicocca e le lamelle sono spesse e spaziate",
+      "B cresce nei boschi di latifoglia, il cappello è rosso e le lamelle sono fitte",
+      "C è ubiquitario, il cappello è bianco e le lamelle bianche"
+  ],
+  answer: 0,
+  explanation: "A cresce nei prati, il cappello è color albicocca e le lamelle sono spesse e spaziate"
+},
+{
+  id: "Cu2",
+  question: "Cuphophyllus pratensis (=Camarophyllus pratensis) è un fungo che",
+  options: [
+      "A cresce in primavera in boschi di latifoglia",
+      "B cresce in primavera in boschi di conifere",
+      "C cresce in estate-autunno in luoghi erbosi, al margine del bosco, in gruppi di numerosi individui"
+  ],
+  answer: 2,
+  explanation: "C cresce in estate-autunno in luoghi erbosi, al margine del bosco, in gruppi di numerosi individui"
+},
+{
+  id: "Cy1",
+  question: "Cyclocybe aegerita(=Agrocybe aegerita) è un fungo:",
+  options: [
+      "A cespitoso, non ha un anello e una sporta marrone",
+      "B cespitoso, ha un anello e una sporta bianca",
+      "C  cespitoso, ha un anello e una sporata marrone"
+  ],
+  answer: 2,
+  explanation: "C  cespitoso, ha un anello e una sporata marrone"
+},
+{
+  id: "Cy2",
+  question: "Cyclocybe aegerita(=Agrocybe aegerita) è un fungo:",
+  options: [
+      "A cappello, gambo e lamelle",
+      "B cappello, gambo, volva e lamelle",
+      "C cappello, gambo, anello e lamelle"
+  ],
+  answer: 2,
+  explanation: "C cappello, gambo, anello e lamelle"
+},
+{
+  id: "Cy3",
+  question: "Le lamelle della Cyclocybe aegerita(=Agrocybe aegerita) presentano complessivamente un colore:",
+  options: [
+      "A bianco",
+      "B rosa",
+      "C bruno tabacco"
+  ],
+  answer: 2,
+  explanation: "C bruno tabacco"
+},
+{
+  id: "Cy4",
+  question: "Sul gambo della Cyclocybe aegerita(=Agrocybe aegerita) si trova:",
+  options: [
+      "A anello",
+      "B volva",
+      "C ne anello ne volva"
+  ],
+  answer: 0,
+  explanation: "A anello"
+},
+{
+  id: "Cy5",
+  question: "Le lamelle della Cyclocybe aegerita(=Agrocybe aegerita) sono di colore:",
+  options: [
+      "A prima pallido poi bruno",
+      "B prima giallo poi nero",
+      "C arancio"
+  ],
+  answer: 0,
+  explanation: "A prima pallido poi bruno"
+},
+{
+  id: "Cy6",
+  question: "Cyclocybe aegerita(=Agrocybe aegerita) è un fungo:",
+  options: [
+      "A a crescita cespitosa e lignicola",
+      "B a crescita terricola",
+      "C a crescita isolata"
+  ],
+  answer: 0,
+  explanation: "A a crescita cespitosa e lignicola"
+},
+{
+  id: "Cy7",
+  question: "Cyclocybe aegerita(=Agrocybe aegerita):",
+  options: [
+      "A ha il gambo slanciato, bianco, con anello bianco spesso e membranoso",
+      "B ha il gambo slanciato, bianco, ricoperto di squamette",
+      "C ha il gambo bianco, sottile e slanciato, finemente fioccoso"
+  ],
+  answer: 0,
+  explanation: "A ha il gambo slanciato, bianco, con anello bianco spesso e membranoso"
+},
+{
+  id: "Hy1",
+  question: "Hygrophorus penarioides:",
+  options: [
+      "A è tossico",
+      "B è commestibile",
+      "C è non commestibile"
+  ],
+  answer: 1,
+  explanation: "B è commestibile"
+},
+{
+  id: "Hy2",
+  question: "Hygrophorus penarioides:",
+  options: [
+      "A ha cappello bianco avorio, lamelle bianche lardacee al tatto, gambo bianco con base appuntita, carne bianca con odore di latte bollito",
+      "B ha cappello bruno olivastro glutinoso, lamelle bianche, gambo ricoperto di glutine, carne bianca senza odore",
+      "C  ha cappello rosa ocraceo, lamelle e gambo concolori al cappello, carne bianca, odore resinoso"
+  ],
+  answer: 0,
+  explanation: "A ha cappello bianco avorio, lamelle bianche lardacee al tatto, gambo bianco con base appuntita, carne bianca con odore di latte bollito"
+},
+{
+  id: "Hy3",
+  question: "Hygrophorus russula:",
+  options: [
+      "A è un fungo tossico",
+      "B è un fungo commestibile",
+      "C è un fungo non commestibile"
+  ],
+  answer: 1,
+  explanation: "B è un fungo commestibile"
+},
+{
+  id: "Hy4",
+  question: "Hygrophorus russula:",
+  options: [
+      "A ha il cappello biancastro macchiato di rosso-vinoso, lamelle bianche macchiate di rosso-vinoso lardacee al tatto, gambo bianco tendente al colore del cappello, carne bianca senza odore distinto",
+      "B ha il cappello grigio-bruno, lamelle bianche e lardacee, gambo bianco, carne bianca con odore fungino",
+      "C ha il cappello bruno-olivastro, lamelle lardacee al tocco, gambo biancastro che tende al giallo, carne bianca sfumata di giallo senza odore distinto"
+  ],
+  answer: 0,
+  explanation: "A ha il cappello biancastro macchiato di rosso-vinoso, lamelle bianche macchiate di rosso-vinoso lardacee al tatto, gambo bianco tendente al colore del cappello, carne bianca senza odore distinto"
+},
+{
+  id: "Pl1",
+  question: "Pleurotus ostreatus cresce spontaneamente in:",
+  options: [
+      "A primavera",
+      "B estate",
+      "C autunno inverno"
+  ],
+  answer: 2,
+  explanation: "C autunno inverno"
+},
+{
+  id: "Pl2",
+  question: "Pleurotus ostreatus presenta:",
+  options: [
+      "A gambo centrale e lamelle adnate",
+      "B gambo tozzo e lamelle smarginate",
+      "C gambo eccentrico e lamelle decorrenti"
+  ],
+  answer: 2,
+  explanation: "C gambo eccentrico e lamelle decorrenti"
+},
+{
+  id: "Pl3",
+  question: "Pleurotus ostreatus ha carne del gambo:",
+  options: [
+      "A cassante",
+      "B fibrosa",
+      "C tenace, elastica"
+  ],
+  answer: 2,
+  explanation: "C tenace, elastica"
+},
+{
+  id: "Tr1",
+  question: "Tricholoma terreum:",
+  options: [
+      "A è tossico",
+      "B è commestibile",
+      "C è non commestibile"
+  ],
+  answer: 1,
+  explanation: "B è commestibile"
+},
+{
+  id: "Tr2",
+  question: "Tricholoma terreum presenta:",
+  options: [
+      "A cappello grigio più o meno scuro con fibrille grigio-nerastre, lamelle biancastre, gambo liscio biancastro, carne bianca con odore insignificante",
+      "B cappello giallo zolfo, lamelle e gambo concolori al cappello, odore e sapore di gas",
+      "C cappello giallo verdastro, lamelle e gambo biancastri soffusi di giallo, odore debole di farina"
+  ],
+  answer: 0,
+  explanation: "A cappello grigio più o meno scuro con fibrille grigio-nerastre, lamelle biancastre, gambo liscio biancastro, carne bianca con odore insignificante"
+}
+
+
+
+
+
+
 
     // Add more questions here... testetstes
 ];
