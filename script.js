@@ -16424,6 +16424,7 @@ image: 'img/Inocybe_fastigiata_10.jpg',
     var correctResponsesElement = document.getElementById("correct-responses");
     var incorrectResponsesElement = document.getElementById("incorrect-responses");
 
+    
     function displayQuestion(question) {
       questionElement.textContent = question.question;
       totalQuestionsElement.textContent = totalQuestions;
@@ -16454,20 +16455,41 @@ image: 'img/Inocybe_fastigiata_10.jpg',
               dropdown.appendChild(optionElement);
           });
           optionsElement.appendChild(dropdown);
-      } else {
-          for (var i = 0; i < question.options.length; i++) {
-              var li = document.createElement("li");
-              var input = document.createElement("input");
-              input.type = "radio";
-              input.name = "option";
-              input.value = i;
-              li.appendChild(input);
-              li.appendChild(document.createTextNode(question.options[i]));
-              optionsElement.appendChild(li);
-          }
-      }
-  }
-  
+      }    else {
+        for (var i = 0; i < question.options.length; i++) {
+            var li = document.createElement("li");
+            var label = document.createElement("label");
+            var input = document.createElement("input");
+            input.type = "radio";
+            input.name = "option";
+            input.value = i;
+
+            label.appendChild(input);
+            label.appendChild(document.createTextNode(question.options[i]));
+            li.appendChild(label);
+
+            // Add click event listener to the list item
+            li.addEventListener("click", function(e) {
+                var innerInput = e.currentTarget.querySelector("input");
+                if (e.target !== innerInput) {
+                    innerInput.click();
+                }
+
+                // Remove the selected-option class from all list items
+                var allListItems = optionsElement.querySelectorAll("li");
+                allListItems.forEach(function(item) {
+                    item.classList.remove("selected-option");
+                });
+
+                // Add the selected-option class to the clicked list item
+                e.currentTarget.classList.add("selected-option");
+            });
+
+            optionsElement.appendChild(li);
+        }
+    }
+}
+
   
 
     function validateAnswer(selectedAnswer, correctAnswer) {

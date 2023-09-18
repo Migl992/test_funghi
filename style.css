@@ -158,3 +158,16 @@ button:hover {
   border-color: #4CAF50; /* Changes border color on focus */
 }
 
+ul li {
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+ul li:hover {
+  background-color: #d9d9d9;
+} 
+
+.selected-option {
+  background-color: #079413; /* Change this to your preferred color */
+}
+
