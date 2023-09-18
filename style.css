@@ -95,6 +95,7 @@ button {
 button:hover {
   background-color: #f57c00;
 }
+
 .popup {
   display: none;
   position: fixed;
@@ -123,4 +124,37 @@ button:hover {
     max-width: 100%;
     width: 90%;
   }
+  
+  #question-container img {
+    width: 100%;  /* take full width of the container on mobile */
+    height: auto; /* maintain the image's aspect ratio */
+  }
 }
+
+#question-container img {
+  width: 100%;  /* or whatever fixed width you want */
+  height: 100%; /* or whatever fixed height you want */
+  object-fit: cover; /* this will crop the image to fit the dimensions */
+  display: block;
+  margin: 20px auto; /* centers the image horizontally and adds some vertical spacing */
+  border-radius: 10px; /* optional: to make the image corners rounded */
+}
+
+#fungi-dropdown {
+  width: 100%; /* Full width of the container */
+  padding: 10px; /* Padding for better appearance */
+  margin-bottom: 20px; /* Margin for spacing */
+  border: 1px solid #ccc; /* Border color */
+  border-radius: 5px; /* Rounded corners */
+  font-size: 16px; /* Font size */
+  background-color: #fff; /* Background color */
+  appearance: none; /* Removes default styling in some browsers */
+  -webkit-appearance: none; /* Removes default styling in Webkit browsers */
+  -moz-appearance: none; /* Removes default styling in Firefox */
+}
+
+#fungi-dropdown:focus {
+  outline: none; /* Removes the default focus outline */
+  border-color: #4CAF50; /* Changes border color on focus */
+}
+
